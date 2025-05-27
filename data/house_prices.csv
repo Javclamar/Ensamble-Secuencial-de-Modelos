@@ -1,0 +1,561 @@
+GarageCars,Condition2,YearBuilt,GarageYrBlt,LandContour,LowQualFinSF,HouseStyle,GarageType,MSSubClass,WoodDeckSF,FireplaceQu,BsmtFinSF2,Alley,MSZoning,OverallCond,EnclosedPorch,CentralAir,LotFrontage,GarageCond,Exterior2nd,GarageArea,BsmtFinType2,GarageQual,ExterQual,PavedDrive,LotShape,KitchenQual,SaleType,MiscVal,BsmtExposure,OpenPorchSF,ExterCond,Fireplaces,FullBath,BsmtQual,MiscFeature,PoolQC,SalePrice
+2,Norm,1962,1977.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,70.0,TA,MetalSd,576,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,132000
+0,Norm,1914,0.0,Lvl,0,2.5Unf,none,75,0,Gd,0,Grvl,RM,6,134,Y,35.0,none,Wd Shng,0,Unf,none,TA,Y,Reg,TA,WD,0,none,291,TA,1,2,TA,none,none,128000
+2,Norm,1999,1999.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,68.0,TA,VinylSd,666,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,35,TA,0,2,Gd,none,none,192000
+1,Norm,1948,1948.0,Bnk,0,2Story,Attchd,20,103,none,0,none,RL,8,0,Y,78.0,TA,MetalSd,230,Unf,TA,TA,Y,Reg,Ex,WD,0,none,0,Gd,0,3,TA,none,none,225000
+2,Norm,1950,1950.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,60.0,TA,Wd Sdng,420,none,TA,TA,Y,Reg,TA,WD,0,none,29,TA,0,1,none,none,none,109900
+2,Norm,1963,1997.0,Lvl,0,SLvl,Attchd,80,302,TA,0,none,RL,6,0,Y,70.0,TA,HdBoard,480,Unf,TA,TA,Y,IR1,TA,WD,0,Av,0,TA,1,2,Gd,none,none,175000
+3,Norm,2006,2006.0,Lvl,0,2Story,BuiltIn,60,414,Gd,0,none,RL,5,0,Y,105.0,TA,VinylSd,694,Unf,TA,Ex,Y,Reg,Ex,WD,0,Av,84,TA,1,2,Gd,none,none,380000
+2,Norm,1968,1968.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,3,240,Y,120.0,TA,Wd Sdng,576,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,2,1,Fa,none,none,110000
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,0,none,0,Pave,FV,5,0,Y,60.0,TA,VinylSd,572,Unf,TA,Gd,Y,Reg,Gd,New,0,none,120,TA,0,2,Gd,none,none,185000
+2,Norm,1969,1969.0,Lvl,0,2Story,Attchd,60,208,none,287,none,RL,5,0,Y,80.0,TA,HdBoard,462,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,152000
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,144,TA,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,398,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,20,TA,1,2,Gd,none,none,178740
+2,RRAe,1977,1977.0,Lvl,0,1.5Fin,BuiltIn,90,155,TA,211,none,RL,5,145,Y,70.04995836802665,TA,Plywood,600,Rec,TA,TA,N,IR1,TA,WD,8300,none,24,TA,1,2,Gd,Gar2,none,190000
+2,Norm,2004,2004.0,Lvl,0,2Story,Detchd,160,0,none,0,none,RM,5,0,Y,32.0,TA,VinylSd,380,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,40,TA,0,2,Gd,none,none,130000
+2,Norm,1964,1964.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,7,0,Y,75.0,Gd,HdBoard,504,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,Gd,none,none,145000
+2,Norm,1976,1976.0,Lvl,0,2Story,Attchd,60,448,TA,0,none,RL,7,0,Y,70.04995836802665,TA,Plywood,484,Unf,TA,TA,Y,IR1,Gd,WD,0,none,96,Gd,1,2,TA,none,none,197500
+2,Norm,1973,1973.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,5,0,Y,87.0,TA,Plywood,506,Unf,TA,TA,Y,IR1,TA,WD,0,none,211,TA,0,2,TA,none,none,135000
+2,Norm,1968,1968.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,6,0,Y,90.0,TA,HdBoard,776,Unf,TA,TA,Y,Reg,TA,WD,0,none,169,TA,1,2,TA,none,none,179900
+1,Norm,1957,1968.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,64.0,TA,MetalSd,756,Unf,TA,TA,Y,IR1,TA,WD,0,Mn,0,Gd,0,1,TA,none,none,153000
+1,Feedr,1930,1988.0,Lvl,156,1Story,Detchd,40,0,none,0,none,RM,6,0,Y,50.0,TA,VinylSd,308,Unf,TA,TA,P,Reg,TA,WD,600,none,0,TA,0,1,TA,Shed,none,79500
+0,Norm,1912,0.0,Lvl,371,2.5Fin,none,75,0,none,0,none,RM,6,30,Y,92.0,none,Wd Sdng,0,Unf,none,TA,Y,Reg,TA,WD,0,none,198,TA,0,1,TA,none,none,104000
+1,Norm,1975,1977.0,Lvl,0,1Story,Detchd,20,145,none,491,none,RL,6,0,Y,70.04995836802665,TA,VinylSd,308,BLQ,TA,TA,Y,IR1,TA,WD,0,Av,0,TA,0,1,Gd,none,none,130250
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,264,none,0,none,RL,5,0,Y,68.0,TA,VinylSd,508,Unf,TA,Gd,Y,Reg,Gd,New,0,none,98,TA,0,2,Gd,none,none,203000
+1,Norm,1954,1954.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,75.0,TA,Wd Sdng,286,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,118000
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,90,40,none,396,none,RL,5,0,Y,55.0,TA,Plywood,574,LwQ,TA,TA,Y,IR1,TA,WD,0,Gd,0,TA,0,2,TA,none,none,150900
+2,Norm,1905,2003.0,Lvl,0,1.5Fin,Detchd,190,0,TA,0,Pave,RM,7,212,N,60.0,TA,Wd Sdng,672,Unf,Gd,TA,Y,Reg,TA,WD,0,none,25,TA,1,2,Fa,none,none,163000
+2,Norm,1972,1972.0,Lvl,0,SLvl,Attchd,80,269,TA,0,none,RL,7,0,Y,75.0,TA,Wd Sdng,538,Unf,TA,Gd,Y,Reg,Ex,WD,0,Gd,111,TA,3,2,Gd,none,none,345000
+3,Norm,2008,2009.0,HLS,0,1Story,Attchd,20,144,Gd,0,none,RL,5,0,Y,89.0,TA,CmentBd,746,Unf,TA,Ex,Y,IR1,Ex,WD,0,Gd,76,TA,1,2,Ex,none,none,378500
+0,Norm,1912,0.0,Bnk,0,2Story,none,190,0,none,0,Grvl,RL,6,0,N,55.0,none,VinylSd,0,Unf,none,TA,N,Reg,Fa,WD,0,none,184,Fa,0,2,TA,none,none,135900
+2,Norm,2000,2000.0,Lvl,0,2Story,Attchd,60,100,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,463,Unf,TA,TA,Y,Reg,TA,WD,0,none,48,TA,1,2,Gd,none,none,181000
+1,Norm,1930,1932.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,8,0,Y,70.0,Fa,Wd Sdng,270,Unf,Fa,TA,N,Reg,Gd,WD,0,none,113,TA,0,1,TA,none,none,110000
+2,Norm,2006,2007.0,Lvl,0,1Story,Attchd,20,80,none,0,none,RL,5,0,Y,74.0,TA,VinylSd,430,Unf,TA,TA,Y,Reg,TA,New,0,none,64,TA,0,1,Gd,none,none,155000
+3,Norm,2006,2006.0,HLS,0,2Story,BuiltIn,60,192,Gd,0,none,RL,5,37,Y,66.0,TA,VinylSd,641,Unf,TA,Ex,Y,IR2,Gd,New,0,Gd,0,TA,1,3,Ex,none,none,438780
+2,Norm,1989,1989.0,Low,0,SLvl,Attchd,80,80,TA,0,none,RL,5,0,Y,70.04995836802665,TA,Wd Sdng,569,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,0,TA,1,2,Gd,none,none,275000
+1,Norm,1964,2002.0,Lvl,0,1Story,Detchd,90,155,none,264,none,RL,4,0,Y,70.04995836802665,TA,HdBoard,352,Rec,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,2,TA,none,none,119000
+2,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,64.0,TA,VinylSd,520,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,45,TA,0,2,Gd,none,none,185900
+2,Norm,2000,2000.0,Lvl,0,1Story,Attchd,120,96,none,0,none,RL,5,0,Y,41.0,TA,CmentBd,499,Unf,TA,Gd,Y,Reg,Ex,WD,0,Av,48,TA,0,2,Gd,none,none,251000
+1,Norm,1936,1936.0,Lvl,0,1Story,Detchd,30,0,none,0,Grvl,RM,6,0,N,50.0,TA,Wd Sdng,327,Unf,TA,TA,Y,Reg,TA,WD,0,none,28,TA,0,1,TA,none,none,106500
+1,Norm,1941,1941.0,Lvl,0,1.5Fin,Attchd,50,0,Gd,41,none,RL,5,0,Y,79.0,TA,Wd Shng,240,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,105000
+2,Norm,1957,1957.0,Lvl,0,1Story,Detchd,20,0,Gd,0,none,RL,6,0,Y,70.04995836802665,TA,Wd Sdng,528,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,Gd,none,none,121500
+1,Norm,1941,1941.0,Lvl,0,1Story,Attchd,30,0,none,0,none,RL,6,0,Y,50.0,TA,MetalSd,234,Unf,TA,TA,N,Reg,TA,WD,0,none,113,TA,0,1,TA,none,none,113000
+4,Norm,1961,1975.0,Low,0,1Story,2Types,190,439,TA,0,none,RL,4,0,Y,70.04995836802665,TA,MetalSd,1356,Unf,TA,TA,Y,Reg,TA,WD,0,Av,0,Gd,1,1,TA,none,none,168000
+1,Norm,1973,1973.0,Lvl,0,2Story,Attchd,160,120,none,0,none,RM,5,0,Y,70.04995836802665,TA,CmentBd,286,Unf,TA,TA,Y,Reg,TA,WD,0,none,96,TA,0,1,TA,none,none,83500
+1,Norm,1920,1920.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RL,6,94,Y,60.0,TA,Wd Sdng,216,Unf,Fa,TA,N,Reg,Ex,WD,0,none,20,TA,0,1,Fa,none,none,86000
+2,Norm,1973,1973.0,Lvl,0,1Story,Attchd,20,300,Gd,0,none,RL,6,0,Y,95.0,TA,Plywood,516,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,0,Gd,2,2,Gd,none,none,244000
+2,Norm,1959,1991.0,Lvl,0,1.5Fin,Detchd,50,0,Gd,0,none,RL,4,0,Y,80.0,TA,Plywood,680,none,TA,TA,N,Reg,TA,WD,0,none,59,TA,1,2,none,none,none,134432
+2,Norm,1966,1966.0,Low,0,2Story,Attchd,60,133,none,0,none,RL,8,0,Y,70.04995836802665,TA,HdBoard,444,Unf,TA,TA,Y,IR1,Gd,WD,0,Gd,168,TA,0,2,TA,none,none,187500
+0,Norm,1946,0.0,Low,0,1Story,none,20,0,none,0,none,RL,3,0,N,50.0,none,VinylSd,0,none,none,Fa,N,Reg,Fa,WD,0,none,0,Fa,0,1,none,none,none,39300
+2,Norm,1972,1972.0,Lvl,0,2Story,Attchd,60,294,TA,0,none,RL,6,0,Y,70.04995836802665,TA,Plywood,497,Unf,TA,TA,Y,IR1,TA,WD,0,none,116,TA,1,1,TA,none,none,162000
+3,Norm,2004,2004.0,Lvl,0,1Story,Attchd,20,144,Gd,0,none,RL,5,0,Y,182.0,TA,VinylSd,630,Unf,TA,Gd,Y,IR3,Gd,WD,0,Av,36,TA,1,2,Gd,none,none,259000
+2,Norm,1971,1971.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,495,Unf,TA,TA,Y,IR1,TA,WD,0,none,66,TA,1,2,TA,none,none,190000
+2,Norm,1982,1987.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,6,0,Y,69.0,TA,Plywood,360,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,129500
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,120,140,none,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,420,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,0,1,Gd,none,none,140000
+2,Norm,2000,2000.0,Lvl,0,1Story,Attchd,120,212,Ex,0,none,RL,5,0,Y,40.0,TA,CmentBd,499,Unf,TA,Gd,Y,IR1,Ex,WD,0,none,59,TA,1,2,Gd,none,none,278000
+2,Norm,1949,1949.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,4,0,N,70.04995836802665,TA,Stucco,400,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,none,none,none,87500
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,120,0,Gd,0,Pave,FV,5,0,Y,47.0,TA,VinylSd,466,Unf,TA,Gd,Y,Reg,Gd,New,0,none,241,TA,1,2,Ex,none,none,208900
+3,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,78.0,TA,CmentBd,840,Unf,TA,Gd,Y,Reg,Ex,New,0,none,36,TA,1,2,Gd,none,none,287090
+2,Norm,1978,1978.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,82.0,TA,Plywood,478,Unf,TA,TA,Y,IR1,TA,COD,0,none,0,TA,1,2,Gd,none,none,157000
+2,Norm,1923,1950.0,Bnk,0,1.5Fin,Detchd,50,0,Gd,0,none,RL,7,0,Y,70.0,TA,Wd Sdng,440,Unf,TA,TA,Y,IR1,TA,WD,0,none,38,TA,1,1,Gd,none,none,210000
+1,Norm,1968,1968.0,Lvl,0,1Story,Attchd,20,0,TA,492,none,RL,5,0,Y,55.0,TA,HdBoard,322,LwQ,TA,TA,Y,Reg,TA,WD,0,none,63,TA,1,1,TA,none,none,134000
+2,Norm,1958,1958.0,Low,0,1.5Fin,Attchd,50,0,TA,0,none,RL,7,0,Y,70.04995836802665,TA,HdBoard,389,Unf,TA,Gd,Y,IR2,Gd,WD,500,Gd,98,TA,2,2,Gd,Shed,none,277000
+1,Norm,1967,1967.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,0,Y,70.04995836802665,TA,Wd Sdng,288,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,125500
+2,Norm,1954,1962.0,HLS,0,1.5Unf,Detchd,45,0,none,0,none,RL,6,0,Y,59.0,TA,MetalSd,528,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,105500
+2,Norm,2006,2006.0,HLS,0,1Story,Attchd,120,123,Gd,0,none,RM,5,0,Y,44.0,TA,VinylSd,538,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,0,TA,1,2,Gd,none,none,235000
+3,Norm,2005,2005.0,Lvl,0,2Story,Attchd,60,160,Gd,0,none,FV,5,0,Y,85.0,TA,VinylSd,1043,Unf,TA,Gd,Y,Reg,Gd,WD,0,Mn,50,TA,1,2,Gd,none,none,252000
+2,Norm,1967,1967.0,Lvl,0,1Story,Attchd,20,0,Gd,630,none,RL,5,0,Y,70.04995836802665,TA,Wd Sdng,457,LwQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,TA,none,none,161500
+1,Norm,1976,1976.0,Lvl,0,2Story,BuiltIn,160,141,Gd,0,none,RM,6,0,Y,70.04995836802665,TA,CmentBd,336,Unf,TA,TA,Y,Reg,TA,WD,0,Mn,24,TA,1,1,Gd,none,none,115000
+2,Norm,2007,2007.0,Lvl,0,2Story,Detchd,160,0,none,0,Pave,FV,5,0,Y,34.0,TA,VinylSd,540,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,102,TA,0,2,Gd,none,none,146000
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,98.0,TA,VinylSd,866,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,44,TA,1,2,Gd,none,none,250000
+2,Norm,1964,1964.0,Low,0,1Story,Attchd,20,168,none,0,none,RL,5,0,Y,70.04995836802665,TA,Wd Sdng,390,Unf,TA,TA,N,IR1,TA,WD,0,Av,198,Gd,0,2,TA,none,none,190000
+1,Norm,1965,1965.0,Lvl,0,1Story,Detchd,20,0,Po,311,none,RL,5,236,Y,60.0,TA,MetalSd,360,BLQ,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,TA,none,none,62383
+1,Norm,1965,1965.0,HLS,0,1Story,Attchd,20,120,none,0,none,RL,5,0,Y,73.0,TA,HdBoard,432,Unf,TA,TA,P,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,94750
+1,Norm,1956,1956.0,Lvl,0,1Story,Basment,20,64,none,0,none,RL,3,0,Y,70.04995836802665,TA,AsbShng,288,Unf,TA,TA,Y,IR1,TA,COD,0,none,0,TA,0,1,TA,none,none,112000
+2,Norm,2009,2009.0,Lvl,0,2Story,BuiltIn,60,0,none,0,none,FV,5,0,Y,75.0,TA,VinylSd,552,Unf,TA,Gd,Y,IR1,TA,New,0,none,150,TA,0,2,Gd,none,none,263435
+2,Norm,1976,1993.0,Lvl,0,1Story,Attchd,20,120,TA,0,none,RL,4,0,Y,70.04995836802665,TA,Plywood,490,Unf,TA,TA,Y,IR1,TA,WD,0,none,78,TA,1,2,TA,none,none,150000
+1,Norm,1941,1941.0,Lvl,0,1.5Fin,Detchd,50,26,none,0,none,RM,6,0,Y,52.0,TA,Wd Sdng,200,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,66500
+0,Norm,1972,0.0,Lvl,0,SFoyer,none,180,88,none,0,none,RM,7,0,Y,21.0,none,CmentBd,0,Unf,none,TA,Y,Reg,TA,WD,0,Av,0,Gd,0,1,Gd,none,none,81000
+2,Norm,1976,1976.0,Lvl,0,2Story,Detchd,160,48,TA,0,none,RL,6,0,Y,24.0,TA,Brk Cmn,440,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,1,2,Gd,none,none,155000
+2,Norm,1996,1997.0,Lvl,0,2Story,Attchd,60,180,TA,0,none,RL,5,0,Y,92.0,TA,MetalSd,455,Unf,TA,Gd,Y,IR1,TA,WD,0,Av,130,TA,1,2,Gd,none,none,269790
+2,Norm,1971,1971.0,Lvl,0,2Story,Detchd,160,240,none,0,none,RM,5,0,Y,24.0,TA,HdBoard,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,36,TA,0,1,TA,none,none,122500
+0,Norm,2006,0.0,Lvl,0,1Story,none,20,36,none,0,none,RL,5,0,Y,90.0,none,VinylSd,0,Unf,none,TA,Y,Reg,TA,WD,0,none,56,TA,0,1,Gd,none,none,84500
+2,Norm,1965,1992.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,8,0,Y,72.0,TA,VinylSd,576,Unf,TA,TA,Y,Reg,Gd,WD,0,none,240,TA,0,1,TA,none,none,147000
+1,Norm,1931,1931.0,HLS,0,2Story,Attchd,70,0,Gd,0,none,RL,6,112,Y,60.0,TA,Wd Shng,270,Unf,TA,TA,P,Reg,TA,WD,0,none,0,Fa,1,1,Gd,none,none,149000
+2,Norm,1953,1953.0,Lvl,0,1.5Fin,Attchd,50,0,TA,0,none,RL,4,114,Y,81.0,TA,AsbShng,667,Unf,TA,Gd,Y,Reg,TA,WD,0,none,21,TA,1,2,TA,none,none,225000
+1,Norm,1941,1941.0,Lvl,0,2.5Unf,Detchd,75,0,Gd,0,none,RL,5,0,Y,53.0,TA,MetalSd,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,2,2,TA,none,none,164000
+2,Norm,1925,1976.0,Lvl,0,1Story,Detchd,30,166,Gd,0,none,RM,6,0,Y,50.0,TA,MetalSd,440,Unf,TA,TA,Y,Reg,Gd,WD,0,none,120,Gd,1,1,TA,none,none,110500
+2,Norm,1999,1999.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,68.0,TA,VinylSd,588,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,88,TA,0,2,Gd,none,none,193000
+2,Norm,2000,2000.0,Lvl,0,2Story,Attchd,60,100,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,460,Unf,TA,TA,Y,IR1,TA,WD,0,none,40,TA,1,2,Gd,none,none,172400
+2,Norm,2007,2008.0,Lvl,0,1Story,Attchd,120,172,Gd,0,none,RL,5,0,Y,34.0,TA,VinylSd,626,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,62,TA,1,2,Gd,none,none,230000
+1,Norm,1970,1970.0,Lvl,0,2Story,Attchd,160,0,none,0,none,RM,5,0,Y,21.0,TA,CmentBd,286,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,75000
+1,Norm,1925,1960.0,Lvl,0,1.5Fin,Detchd,50,0,Fa,0,none,RM,8,208,Y,50.0,TA,Wd Sdng,216,Unf,TA,TA,N,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,117000
+2,Norm,2002,2002.0,Lvl,0,2Story,Attchd,60,144,none,0,none,RL,5,0,Y,68.0,TA,VinylSd,493,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,68,TA,0,2,Gd,none,none,195000
+2,Norm,1951,1988.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,60.0,TA,HdBoard,840,Unf,TA,TA,Y,Reg,TA,COD,0,Mn,0,TA,0,1,TA,none,none,139000
+2,Norm,1986,1986.0,Lvl,0,1Story,Attchd,20,192,TA,208,none,RL,5,0,Y,47.0,TA,Plywood,616,LwQ,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,2,Gd,none,none,184000
+3,Norm,2002,2002.0,Lvl,0,1Story,Attchd,20,257,TA,0,none,RL,5,0,Y,90.0,TA,VinylSd,702,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,45,TA,1,2,Gd,none,none,285000
+2,Norm,1978,1978.0,Lvl,0,1.5Fin,Attchd,90,0,none,0,none,RM,5,0,Y,68.0,TA,VinylSd,539,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,none,none,none,112000
+3,Norm,2006,2006.0,Lvl,0,2Story,BuiltIn,60,125,TA,0,none,RL,5,0,Y,77.0,TA,VinylSd,1052,Unf,TA,Gd,Y,Reg,Gd,New,0,Gd,144,TA,1,3,Ex,none,none,424870
+2,Norm,1977,1977.0,Bnk,0,2Story,Attchd,60,252,none,0,none,RL,6,0,Y,75.0,TA,Plywood,440,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,159500
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,149,Gd,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,420,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,1,1,Gd,none,none,149000
+2,Norm,1979,1979.0,Lvl,0,SLvl,Attchd,60,0,TA,110,none,RL,6,216,Y,80.0,TA,HdBoard,550,Rec,TA,TA,Y,Reg,TA,WD,0,none,88,TA,1,2,TA,none,none,197000
+1,Norm,1918,1955.0,Lvl,0,1.5Fin,Detchd,50,207,none,0,Grvl,RL,7,96,Y,45.0,TA,Stucco,280,Unf,TA,TA,P,Reg,Fa,WD,0,none,0,TA,0,1,TA,none,none,116000
+2,Norm,1997,1997.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,69.0,TA,VinylSd,684,Unf,TA,TA,Y,IR1,Gd,WD,0,none,162,Gd,0,2,Gd,none,none,204750
+1,Norm,1973,1973.0,Lvl,0,SLvl,BuiltIn,180,120,none,0,none,RM,5,0,Y,21.0,TA,CmentBd,297,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,101,TA,0,1,Gd,none,none,91000
+2,Norm,1977,1977.0,Lvl,0,1Story,Attchd,120,0,none,0,none,RL,6,0,Y,53.0,TA,Plywood,440,Unf,TA,TA,Y,Reg,TA,COD,0,none,55,TA,0,2,Gd,none,none,140000
+1,Norm,1959,1959.0,Lvl,0,SLvl,Basment,80,0,Gd,0,none,RL,7,0,Y,124.0,TA,Plywood,312,Unf,TA,TA,Y,IR1,Ex,WD,0,Av,0,TA,1,1,TA,none,none,177000
+3,Norm,2002,2002.0,Lvl,0,1Story,Attchd,20,270,Gd,0,none,RL,5,0,Y,85.0,TA,VinylSd,765,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,78,TA,1,2,Ex,none,none,312500
+1,Norm,1921,1921.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,7,129,Y,50.0,TA,Wd Shng,205,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,89000
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,104.0,TA,Plywood,478,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,1,2,Gd,none,none,180000
+1,Norm,1955,1955.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,7,0,Y,70.04995836802665,TA,Wd Sdng,260,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,135000
+2,Norm,1995,1995.0,Lvl,0,2Story,Attchd,60,315,TA,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,409,Unf,TA,TA,Y,IR2,TA,WD,0,none,44,TA,1,2,Gd,none,none,187500
+3,Norm,2007,2008.0,Lvl,0,2Story,BuiltIn,60,196,Ex,0,none,RL,5,0,Y,96.0,TA,VinylSd,846,Unf,TA,Ex,Y,Reg,Ex,New,0,Av,134,TA,1,2,Ex,none,none,426000
+2,Norm,1900,1945.0,Lvl,0,2Story,Detchd,190,0,none,0,Grvl,RM,5,0,N,85.0,TA,Wd Sdng,560,Unf,TA,TA,Y,Reg,TA,WD,0,none,57,TA,0,2,TA,none,none,90000
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,0,none,506,none,RL,6,0,Y,70.0,TA,Wd Sdng,300,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,141000
+2,Norm,1992,1992.0,Lvl,0,2Story,Attchd,60,240,TA,0,none,RL,5,0,Y,107.0,TA,HdBoard,564,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,39,TA,1,2,Gd,none,none,190000
+2,Norm,1988,1988.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,97.0,TA,Plywood,521,Unf,TA,Gd,Y,IR1,TA,WD,0,none,228,TA,1,2,Gd,none,none,211000
+1,Norm,1942,1942.0,Lvl,0,2Story,Attchd,70,168,Gd,0,none,RL,7,0,Y,79.0,TA,MetalSd,312,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,2,1,TA,none,none,146500
+2,Norm,2002,2002.0,Lvl,0,1Story,Attchd,20,192,none,0,none,RL,5,0,Y,70.0,TA,VinylSd,532,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,74,TA,0,2,Gd,none,none,214000
+2,Norm,2005,2005.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,5,0,Y,75.0,TA,VinylSd,689,Unf,TA,Gd,Y,Reg,Gd,WD,0,Mn,48,TA,1,2,Gd,none,none,253000
+1,Norm,1966,1966.0,Lvl,0,1Story,Detchd,20,0,none,374,none,RL,5,0,Y,99.0,TA,VinylSd,384,LwQ,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,125000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,203,Gd,0,none,RL,5,0,Y,60.0,TA,MetalSd,556,Unf,TA,Ex,Y,Reg,Ex,WD,0,none,47,TA,1,2,Ex,none,none,277500
+1,Norm,1977,1977.0,Lvl,0,SLvl,Attchd,80,210,none,0,none,RL,8,0,Y,65.0,TA,HdBoard,328,Unf,TA,Gd,Y,Reg,TA,WD,0,Av,0,TA,0,2,Gd,none,none,149900
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,192,Gd,0,none,RL,5,0,Y,61.0,TA,VinylSd,460,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,28,TA,1,2,Gd,none,none,194700
+2,Norm,1998,1998.0,Lvl,0,2Story,Attchd,60,100,TA,0,none,RL,5,0,Y,59.0,TA,VinylSd,472,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,38,TA,2,2,Gd,none,none,192000
+2,Norm,1929,1974.0,Lvl,390,1.5Fin,Detchd,50,0,none,692,none,RM,7,0,Y,50.0,TA,Wd Sdng,484,ALQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,130000
+3,Norm,1995,1995.0,Lvl,0,1Story,Attchd,20,236,TA,0,none,RL,6,0,Y,91.0,TA,MetalSd,839,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,46,Gd,1,2,Gd,none,none,350000
+3,Norm,1892,1993.0,Lvl,572,2.5Fin,Detchd,75,0,TA,0,none,RM,9,0,Y,90.0,TA,Wd Sdng,840,Unf,Ex,Gd,Y,IR2,Ex,WD,0,Mn,260,Gd,2,2,TA,none,none,475000
+3,Norm,2007,2008.0,HLS,0,1Story,Attchd,20,228,Ex,0,none,RL,5,0,Y,89.0,TA,VinylSd,912,Unf,TA,Gd,Y,IR1,Ex,WD,0,Gd,0,TA,1,2,Ex,none,none,315500
+1,Norm,1932,1968.0,Bnk,0,1.5Fin,Detchd,50,0,none,0,Pave,RH,5,56,Y,55.0,TA,Stucco,281,Unf,TA,TA,Y,IR2,TA,WD,0,none,0,TA,0,1,TA,none,none,159434
+1,Norm,1946,1946.0,Low,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,60.0,TA,MetalSd,308,none,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,none,none,none,84900
+2,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,62.0,TA,VinylSd,440,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,48,TA,1,2,Gd,none,none,183500
+2,Norm,1963,1963.0,Lvl,0,SFoyer,Attchd,85,120,none,0,none,RL,7,0,Y,80.0,TA,MetalSd,480,Unf,TA,TA,Y,Reg,Gd,WD,0,Gd,0,Gd,0,1,TA,none,none,137500
+2,Norm,2001,2001.0,Lvl,0,1Story,Attchd,20,202,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,522,Unf,TA,Gd,Y,Reg,Ex,WD,0,Av,151,TA,1,2,Gd,none,none,236500
+2,Norm,1925,1962.0,Lvl,360,1.5Fin,Detchd,30,0,none,0,Grvl,RM,5,112,Y,52.0,TA,MetalSd,539,Unf,TA,TA,Y,Reg,TA,WD,0,none,23,TA,0,1,TA,none,none,103000
+1,Norm,1965,1973.0,Lvl,0,1Story,Detchd,20,416,Gd,117,none,RL,8,0,Y,65.0,TA,MetalSd,336,BLQ,TA,TA,Y,Reg,TA,WD,0,none,144,Gd,1,1,TA,none,none,138500
+1,Norm,1940,1940.0,Lvl,0,2Story,Detchd,70,120,Gd,0,none,RL,5,0,Y,60.0,Po,MetalSd,296,Unf,Fa,TA,P,Reg,TA,WD,0,Mn,0,TA,1,1,TA,none,none,108000
+2,Norm,1998,1998.0,Lvl,0,1Story,Attchd,120,0,none,0,none,RM,5,0,Y,32.0,TA,VinylSd,405,Unf,TA,TA,Y,Reg,TA,WD,0,none,199,Gd,0,2,Ex,none,none,153500
+1,Norm,1948,1954.0,Lvl,0,1.5Fin,Detchd,50,0,TA,0,none,RL,3,0,Y,50.0,TA,MetalSd,280,Unf,TA,TA,P,Reg,TA,WD,0,Mn,0,TA,1,1,Fa,none,none,91500
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,78.0,TA,VinylSd,440,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,22,TA,1,2,Gd,none,none,176432
+2,Norm,1890,1996.0,Bnk,0,2Story,Detchd,70,0,none,0,Grvl,RM,8,143,Y,60.0,TA,VinylSd,704,Unf,TA,TA,P,Reg,TA,WD,0,none,48,Gd,0,1,TA,none,none,159500
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,144,Gd,0,none,RL,5,0,Y,75.0,TA,VinylSd,824,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,104,TA,1,2,Gd,none,none,232000
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,140,none,0,none,RL,5,0,Y,74.0,TA,VinylSd,826,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,93,TA,0,2,Gd,none,none,194000
+2,Norm,1953,1953.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,4,0,Y,128.0,TA,Wd Sdng,505,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,149500
+2,Norm,1957,1957.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RM,7,158,Y,90.0,TA,MetalSd,923,Unf,TA,TA,Y,Reg,TA,WD,0,none,158,TA,0,1,TA,none,none,149700
+2,Norm,2007,2007.0,Lvl,0,2Story,Attchd,60,144,none,0,none,FV,6,0,Y,84.0,TA,VinylSd,578,Unf,TA,Gd,Y,Reg,Gd,New,0,none,105,TA,0,3,Gd,none,none,227875
+1,Norm,1980,1980.0,Lvl,0,2Story,Attchd,160,0,TA,0,none,RL,6,0,Y,75.0,TA,Plywood,288,Unf,TA,TA,Y,Reg,TA,WD,0,none,28,TA,1,1,Gd,none,none,120000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,192,Gd,0,none,RL,5,0,Y,43.0,TA,VinylSd,484,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,36,TA,1,2,Gd,none,none,185850
+2,Norm,2000,2000.0,Lvl,0,2Story,Detchd,160,153,none,0,none,FV,5,0,Y,70.04995836802665,TA,MetalSd,490,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,50,TA,0,2,Gd,none,none,165000
+1,Norm,1958,1958.0,Lvl,0,SLvl,Attchd,190,0,none,0,none,RL,5,0,Y,75.0,TA,HdBoard,264,Unf,TA,TA,Y,Reg,TA,ConLD,0,Gd,0,Fa,0,1,TA,none,none,140000
+1,Norm,1921,1921.0,Lvl,0,1.5Fin,Detchd,50,192,Gd,0,none,RL,6,102,Y,54.0,TA,Wd Sdng,186,Unf,Fa,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,TA,none,none,154900
+2,Norm,1954,1993.0,Low,0,1Story,Detchd,20,108,Gd,0,none,RL,7,0,Y,70.04995836802665,TA,HdBoard,924,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,0,TA,1,1,TA,none,none,224000
+2,Norm,1982,1996.0,Lvl,0,SFoyer,Detchd,85,0,none,0,none,RL,6,0,Y,74.0,TA,HdBoard,528,Unf,TA,TA,Y,IR1,TA,WD,0,Av,0,TA,0,1,TA,none,none,137000
+2,Norm,1986,1986.0,Low,0,1Story,Attchd,120,0,TA,0,none,RL,5,0,Y,70.04995836802665,TA,Wd Sdng,445,Unf,TA,TA,Y,IR1,Gd,WD,0,Gd,80,TA,1,1,Gd,none,none,190000
+2,Norm,1952,1952.0,Bnk,0,1Story,Basment,20,0,none,0,none,C (all),5,0,N,66.0,TA,Wd Sdng,504,Unf,TA,Fa,N,Reg,Fa,WD,54,Av,0,TA,0,1,TA,Shed,none,55993
+2,Norm,1983,1983.0,Lvl,0,SFoyer,Attchd,85,240,none,93,none,RL,7,0,Y,70.04995836802665,Gd,HdBoard,504,LwQ,TA,TA,Y,IR1,Gd,WD,0,Av,0,TA,0,1,Gd,none,none,144000
+2,Norm,1890,1963.0,Lvl,120,1.5Fin,Detchd,50,48,none,0,none,RM,6,244,Y,98.0,TA,VinylSd,456,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,124900
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,160,none,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,420,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,0,1,Gd,none,none,143000
+2,Norm,1964,1964.0,Lvl,0,SLvl,Attchd,80,180,Fa,0,none,RL,6,0,Y,70.04995836802665,TA,HdBoard,645,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,0,Gd,1,1,TA,none,none,158000
+1,Norm,1964,1964.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,6,0,Y,80.0,TA,HdBoard,461,Unf,TA,TA,Y,Reg,TA,WD,700,none,116,TA,2,1,TA,Shed,none,160000
+0,Norm,1946,0.0,Bnk,479,1.5Fin,none,50,122,Gd,469,none,RL,6,0,Y,138.0,none,MetalSd,0,BLQ,none,TA,Y,IR1,Ex,WD,0,none,0,TA,1,3,TA,none,none,200500
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,146,TA,0,none,RL,5,0,Y,43.0,TA,VinylSd,430,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,20,TA,1,2,Gd,none,none,192000
+2,Norm,1964,1968.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,75.0,TA,MetalSd,480,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,167000
+2,Norm,1961,1961.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,3,0,Y,85.0,TA,HdBoard,480,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,98600
+2,Norm,2005,2006.0,HLS,0,2Story,Attchd,60,239,Gd,0,none,RL,5,0,Y,134.0,TA,VinylSd,576,Unf,TA,Gd,Y,IR1,Gd,New,0,Mn,132,TA,1,2,Gd,none,none,320000
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,224,none,0,none,RL,6,0,Y,80.0,TA,MetalSd,270,Unf,TA,TA,Y,Reg,TA,WD,0,none,88,TA,0,1,TA,none,none,124500
+2,Norm,1932,1932.0,Bnk,0,2Story,Detchd,70,0,TA,0,none,RL,8,0,Y,70.0,TA,BrkFace,440,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,74,TA,2,2,Gd,none,none,315000
+2,Norm,1999,1999.0,Lvl,0,2Story,Detchd,160,0,none,0,Pave,FV,5,0,Y,24.0,TA,MetalSd,462,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,48,TA,0,2,Gd,none,none,160000
+2,Norm,2002,2002.0,Lvl,0,SLvl,BuiltIn,80,120,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,527,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,0,TA,1,2,Gd,none,none,184100
+2,Norm,2000,2000.0,Lvl,0,2Story,Attchd,60,0,none,0,none,FV,5,0,Y,70.04995836802665,TA,VinylSd,663,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,96,TA,0,2,Gd,none,none,216000
+2,Norm,2008,2008.0,Lvl,0,2Story,Attchd,60,0,none,0,none,FV,5,0,Y,75.0,TA,VinylSd,676,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,30,TA,0,2,Gd,none,none,210000
+2,Norm,1981,1981.0,Lvl,0,1Story,Attchd,20,574,TA,0,none,RL,6,0,Y,70.04995836802665,TA,Plywood,511,Unf,TA,Gd,Y,IR1,TA,WD,0,none,64,TA,1,2,Gd,none,none,228000
+1,Norm,1945,1962.0,Bnk,0,1.5Fin,Attchd,50,0,TA,0,Grvl,RL,6,0,Y,60.0,TA,MetalSd,288,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,140000
+1,Norm,1930,1957.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RM,5,192,Y,52.0,Fa,Wd Sdng,160,Unf,Fa,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,87000
+2,Norm,1994,1994.0,Lvl,0,1Story,Attchd,20,224,Fa,0,none,RL,5,0,Y,65.0,TA,HdBoard,575,Unf,TA,TA,Y,Reg,Gd,WD,0,none,42,TA,1,2,Gd,none,none,193500
+3,Norm,2003,2003.0,Lvl,0,1Story,Attchd,20,0,Gd,479,none,RL,5,0,Y,85.0,TA,VinylSd,880,none,TA,Gd,Y,IR1,Gd,WD,0,none,0,TA,1,2,Gd,none,none,284000
+2,Norm,1980,1983.0,Lvl,0,2Story,Attchd,60,288,TA,0,none,RL,7,0,Y,94.0,TA,CmentBd,484,Unf,TA,Gd,Y,IR1,Ex,WD,0,none,195,TA,1,2,Gd,none,none,260000
+2,Norm,2009,2009.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,79.0,TA,VinylSd,644,Unf,TA,Gd,Y,IR1,Gd,New,0,none,114,TA,0,2,Gd,none,none,233170
+2,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,71.0,TA,VinylSd,432,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,51,TA,1,2,Gd,none,none,188500
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,20,298,TA,0,none,RL,8,0,Y,80.0,TA,MetalSd,460,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,0,TA,1,2,Gd,none,none,181500
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,108,none,0,none,RL,5,0,Y,43.0,TA,VinylSd,438,Unf,TA,Gd,Y,Reg,Gd,New,0,Av,0,TA,0,2,Gd,none,none,167240
+2,Norm,1959,1974.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,6,0,Y,75.0,TA,MetalSd,624,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,150750
+1,Norm,1920,1920.0,Lvl,0,1Story,Basment,30,0,none,0,none,RL,5,77,N,85.0,TA,Wd Sdng,366,Unf,Fa,TA,Y,Reg,TA,COD,400,none,0,TA,0,1,TA,Shed,none,83000
+3,Norm,2007,2008.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,98.0,TA,VinylSd,772,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,50,TA,1,2,Ex,none,none,306000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,60.0,TA,VinylSd,450,Unf,TA,TA,Y,Reg,TA,WD,0,none,49,TA,0,1,Ex,none,none,157000
+2,Norm,1998,1998.0,Lvl,0,2Story,Detchd,60,253,TA,0,none,RL,6,0,Y,75.0,TA,VinylSd,583,Unf,TA,TA,Y,Reg,Gd,WD,0,Av,170,TA,1,2,Gd,none,none,274300
+2,Norm,1960,1960.0,Lvl,0,2Story,Detchd,90,0,none,0,none,RL,5,0,Y,80.0,TA,MetalSd,480,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,154300
+4,Norm,1969,1969.0,Lvl,0,2Story,Detchd,90,0,none,0,none,RL,5,0,Y,91.0,TA,MetalSd,968,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,200000
+2,Norm,1921,1921.0,HLS,0,1Story,Detchd,30,0,none,0,Grvl,RL,7,44,Y,80.0,TA,Wd Sdng,432,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,Gd,0,1,Gd,none,none,163500
+2,Norm,2003,2003.0,Lvl,0,1.5Fin,Detchd,50,280,none,0,none,RM,5,0,Y,63.0,TA,VinylSd,484,Unf,TA,TA,N,Reg,Gd,WD,0,none,238,TA,0,2,Gd,none,none,200000
+1,Norm,1930,2002.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,8,96,Y,70.04995836802665,TA,Wd Sdng,432,Unf,TA,Gd,Y,Reg,TA,WD,0,Av,0,Gd,0,1,TA,none,none,120500
+3,Norm,1993,1993.0,Lvl,0,2Story,Attchd,60,209,TA,0,none,RL,7,0,Y,70.04995836802665,TA,MetalSd,796,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,55,Gd,1,2,Gd,none,none,310000
+2,Norm,1950,1950.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,60.0,TA,MetalSd,420,none,TA,TA,Y,Reg,TA,WD,0,none,27,TA,0,1,none,none,none,98300
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,120,536,Po,0,none,RM,5,0,Y,44.0,TA,CmentBd,528,Unf,TA,TA,Y,Reg,TA,WD,0,none,90,TA,1,1,Gd,none,none,134000
+1,Norm,1936,1936.0,Lvl,473,1.5Fin,Detchd,50,0,none,0,none,RL,5,0,Y,51.0,TA,MetalSd,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,115000
+2,Norm,2000,2000.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,93.0,TA,VinylSd,451,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,2,Gd,none,none,186500
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,20,132,none,0,none,RL,5,0,Y,65.0,TA,VinylSd,494,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,105,TA,0,2,Gd,none,none,185500
+2,Norm,1977,1977.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,6,0,Y,105.0,TA,Plywood,546,Unf,TA,TA,Y,IR1,TA,COD,0,none,122,TA,1,2,Gd,none,none,190000
+3,Norm,2005,2005.0,Lvl,0,2Story,BuiltIn,60,144,Gd,0,none,RL,5,0,Y,77.0,TA,VinylSd,656,Unf,TA,Gd,Y,IR1,Ex,WD,0,none,39,TA,1,2,Gd,none,none,325000
+2,Norm,1992,1992.0,Lvl,0,SLvl,Attchd,80,100,TA,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,392,Unf,TA,TA,Y,IR1,Gd,WD,0,none,25,TA,1,2,Gd,none,none,163900
+1,Norm,1915,1920.0,Bnk,0,2Story,Detchd,70,0,none,0,none,RL,4,136,N,66.0,TA,Wd Sdng,216,Unf,TA,TA,Y,Reg,Fa,WD,0,none,66,TA,0,1,Gd,none,none,128000
+4,Norm,1971,1974.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,70.0,TA,MetalSd,480,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,123000
+2,Norm,2003,2003.0,Lvl,0,2Story,BuiltIn,60,100,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,433,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,48,TA,1,2,Gd,none,none,225000
+2,Norm,1994,1994.0,Lvl,0,2Story,Attchd,60,144,TA,0,none,RL,5,0,Y,70.0,TA,VinylSd,493,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,133,Gd,1,2,Gd,none,none,210000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,156,Gd,0,none,RL,5,0,Y,43.0,TA,VinylSd,457,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,0,TA,1,2,Gd,none,none,181000
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,140,Gd,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,420,Unf,TA,Gd,Y,Reg,Gd,ConLD,0,Gd,0,TA,1,1,Gd,none,none,144500
+1,Norm,1940,1940.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,Pave,RL,5,0,Y,70.04995836802665,TA,MetalSd,240,Unf,TA,TA,N,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,145000
+1,Norm,1962,1962.0,Lvl,0,SFoyer,Attchd,85,150,none,0,none,RL,5,0,Y,69.0,TA,MetalSd,300,Unf,TA,TA,Y,IR1,TA,WD,0,Av,72,TA,0,1,TA,none,none,134500
+1,Norm,1966,1966.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RH,4,0,Y,70.04995836802665,TA,HdBoard,384,Unf,TA,TA,Y,Reg,TA,WD,0,none,42,TA,0,1,TA,none,none,107000
+0,Norm,1971,0.0,Lvl,0,1Story,none,20,0,Po,0,none,RL,5,0,Y,70.0,none,HdBoard,0,Unf,none,TA,Y,Reg,TA,ConLI,0,none,0,TA,1,1,TA,none,none,115000
+2,Norm,1996,2000.0,Low,0,1Story,Detchd,20,168,none,0,none,RL,5,0,Y,82.0,TA,VinylSd,576,Unf,TA,TA,Y,IR2,Gd,WD,0,none,0,Gd,0,1,Gd,none,none,152000
+1,Norm,1921,1968.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RL,6,112,Y,60.0,TA,MetalSd,326,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,108480
+2,Norm,2006,2007.0,Lvl,0,SLvl,BuiltIn,80,100,none,0,none,RL,5,0,Y,73.0,TA,VinylSd,400,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,2,Gd,none,none,167500
+2,Norm,1921,1998.0,Lvl,0,2Story,BuiltIn,70,183,none,0,none,RL,6,301,Y,51.0,TA,Wd Sdng,621,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,3,TA,none,none,189000
+2,Norm,2001,2001.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,67.0,TA,VinylSd,605,Unf,TA,Gd,Y,IR2,Gd,WD,0,none,33,TA,0,2,Gd,none,none,187100
+2,Norm,1962,1962.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,9,0,Y,80.0,TA,Wd Sdng,462,Unf,TA,Gd,Y,Reg,Gd,COD,0,none,36,Gd,1,1,TA,none,none,174000
+1,Norm,1955,1967.0,Lvl,0,1Story,Detchd,20,0,Po,0,none,RL,7,0,Y,60.0,TA,VinylSd,392,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,none,none,none,107500
+1,Norm,1956,1956.0,Lvl,0,1Story,Attchd,20,261,none,0,none,RL,7,156,Y,70.0,TA,Wd Sdng,252,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,Gd,none,none,132000
+2,Norm,1997,1997.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,100.0,TA,VinylSd,470,Unf,TA,TA,Y,IR1,TA,WD,0,none,36,TA,1,2,Gd,none,none,181000
+1,Norm,1976,1976.0,Lvl,0,2Story,Attchd,160,182,none,232,none,RM,3,0,Y,36.0,TA,CmentBd,336,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,Gd,none,none,85000
+0,Norm,1959,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,3,0,Y,70.04995836802665,none,Plywood,0,Unf,none,TA,Y,Reg,TA,WD,0,none,24,TA,0,1,TA,none,none,80000
+3,Norm,1993,1993.0,Lvl,0,2Story,Attchd,60,250,TA,0,none,RL,5,216,Y,96.0,TA,ImStucc,983,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,154,TA,1,2,Gd,none,none,341000
+2,Norm,1953,1953.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,85.0,TA,Wd Sdng,495,Unf,TA,TA,Y,IR1,TA,WD,0,Mn,0,TA,2,1,TA,none,none,155000
+2,Norm,1975,1975.0,Lvl,0,2Story,Attchd,60,209,TA,0,none,RL,6,0,Y,85.0,TA,VinylSd,434,Unf,TA,TA,Y,Reg,TA,WD,0,none,208,TA,1,2,Gd,none,none,179900
+1,Norm,1953,1953.0,Lvl,0,1Story,Attchd,190,0,Gd,0,none,RL,5,0,Y,90.0,TA,MetalSd,375,Unf,TA,TA,Y,Reg,TA,WD,0,Mn,0,TA,2,1,TA,none,none,157000
+2,Norm,2009,2009.0,Lvl,0,1Story,Attchd,20,100,none,0,none,RL,5,0,Y,83.0,TA,VinylSd,460,Unf,TA,TA,Y,Reg,Gd,WD,0,Mn,22,TA,0,2,Gd,none,none,186000
+3,Norm,2003,2003.0,HLS,0,1Story,Attchd,20,206,Gd,0,none,RL,5,0,Y,72.0,TA,VinylSd,874,Unf,TA,Gd,Y,IR1,Ex,WD,0,Gd,49,TA,1,2,Ex,none,none,374000
+2,Norm,1977,1977.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,80.0,TA,Plywood,630,Unf,TA,TA,Y,Reg,TA,WD,0,none,16,TA,1,2,Gd,none,none,167900
+2,Norm,1992,1993.0,Lvl,0,2Story,BuiltIn,60,342,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,389,Unf,TA,TA,Y,IR1,TA,WD,0,none,40,TA,1,2,Gd,none,none,178000
+2,Norm,1995,1995.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,80.0,TA,VinylSd,556,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,65,TA,1,2,Gd,none,none,240000
+2,Norm,1999,1999.0,Lvl,0,2Story,Attchd,60,140,TA,0,none,RL,5,0,Y,60.0,TA,VinylSd,442,Unf,TA,TA,Y,Reg,Gd,WD,0,none,60,TA,1,2,TA,none,none,189000
+1,Norm,1939,1979.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RM,5,140,Y,50.0,TA,AsbShng,264,Unf,TA,TA,P,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,100000
+2,Norm,1992,1992.0,Lvl,0,2Story,Attchd,60,635,TA,0,none,RL,5,0,Y,70.0,TA,Wd Sdng,462,Unf,TA,Gd,Y,Reg,Gd,WD,400,none,104,TA,1,2,Gd,Shed,none,189000
+3,Norm,2003,2003.0,Lvl,0,2Story,BuiltIn,60,320,Gd,0,none,RL,5,0,Y,85.0,TA,VinylSd,871,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,62,TA,1,2,Gd,none,none,284000
+2,Norm,1950,1987.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,4,0,N,60.0,TA,BrkFace,400,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,none,none,none,92900
+0,Norm,1924,0.0,Lvl,0,1.5Fin,none,50,0,none,0,none,RL,5,128,N,60.0,none,Wd Sdng,0,Unf,none,TA,N,Reg,TA,WD,0,none,8,TA,0,1,TA,none,none,79000
+1,Norm,1970,1972.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,71.0,TA,MetalSd,280,Unf,TA,TA,Y,Reg,TA,Oth,0,none,0,TA,0,1,TA,Shed,none,116050
+1,Norm,1982,1982.0,Lvl,0,1Story,Attchd,20,0,Ex,0,none,RL,9,0,Y,60.0,TA,VinylSd,264,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,0,Gd,1,1,TA,none,none,130500
+2,Norm,2001,2001.0,Lvl,0,1Story,Attchd,20,180,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,670,Unf,TA,Gd,Y,Reg,Gd,WD,2000,Av,0,TA,1,2,Gd,Shed,none,272000
+2,Norm,1999,1999.0,Lvl,0,1Story,Attchd,20,158,none,0,none,RL,5,0,Y,78.0,TA,VinylSd,472,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,29,TA,0,2,Gd,none,none,214000
+1,Norm,1964,1964.0,Lvl,0,SLvl,Attchd,80,333,none,580,none,RL,7,0,Y,85.0,TA,HdBoard,309,ALQ,TA,TA,Y,Reg,Gd,CWD,0,Gd,0,TA,0,2,Gd,none,none,158000
+2,Norm,1966,1966.0,Lvl,0,SLvl,Attchd,80,0,Gd,128,none,RL,5,0,Y,85.0,TA,VinylSd,484,BLQ,TA,TA,Y,Reg,TA,WD,0,Av,0,TA,1,1,TA,none,none,159950
+1,Norm,1967,1974.0,Lvl,0,1Story,Detchd,20,0,Fa,0,none,RL,5,0,Y,70.0,TA,HdBoard,336,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,125000
+1,Norm,1957,1957.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,6,0,Y,90.0,TA,VinylSd,336,Unf,TA,TA,Y,IR1,TA,WD,0,none,40,TA,2,1,TA,none,none,150000
+1,Norm,1914,1938.0,Lvl,0,1Story,Detchd,30,0,none,0,Grvl,RL,3,96,N,45.0,Fa,Stucco,200,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Fa,0,1,TA,none,none,58500
+2,Norm,1962,1980.0,Lvl,0,1Story,Detchd,20,0,none,108,none,RL,7,0,Y,70.0,TA,MetalSd,506,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,140000
+2,Norm,1947,1950.0,Lvl,0,1.5Fin,Detchd,50,0,Gd,0,none,RM,7,36,Y,50.0,TA,CmentBd,420,Unf,TA,TA,Y,Reg,TA,WD,0,none,24,Gd,2,2,TA,none,none,159000
+3,Norm,1994,1994.0,Lvl,0,2Story,Attchd,60,382,Ex,0,none,RL,6,0,Y,104.0,TA,HdBoard,832,Unf,TA,Ex,Y,IR1,Ex,WD,0,Gd,50,TA,2,3,Ex,none,none,755000
+2,Norm,1980,1980.0,Lvl,0,2Story,Attchd,160,150,TA,0,none,RM,6,0,Y,24.0,TA,MetalSd,462,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,Gd,none,none,124000
+3,Norm,1958,1968.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,5,0,Y,85.0,TA,VinylSd,888,Unf,TA,TA,Y,Reg,TA,COD,0,none,25,TA,0,2,TA,none,none,110000
+2,Norm,1989,1989.0,Lvl,0,2Story,Attchd,60,320,Gd,0,none,RL,5,0,Y,42.0,TA,MetalSd,628,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,27,TA,2,2,Gd,none,none,335000
+3,Norm,1993,1993.0,Low,0,2Story,Attchd,60,340,TA,0,none,RL,5,144,Y,90.0,TA,HdBoard,656,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,60,TA,1,2,Gd,none,none,260000
+2,Norm,2002,2002.0,Lvl,0,1Story,Attchd,20,192,TA,0,none,RL,5,0,Y,88.0,TA,VinylSd,530,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,36,TA,1,2,Gd,none,none,221000
+1,Norm,1972,1972.0,Lvl,0,2Story,Detchd,160,185,none,0,none,RM,7,0,Y,21.0,TA,CmentBd,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,119500
+1,Norm,1920,1997.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,4,168,Y,50.0,TA,MetalSd,308,Unf,TA,TA,Y,Reg,Fa,WD,0,none,0,TA,0,1,TA,none,none,108500
+0,Norm,1922,0.0,Low,0,1Story,none,30,0,none,0,none,RL,1,0,N,70.04995836802665,none,Wd Sdng,0,Unf,none,Fa,Y,IR1,Fa,WD,0,Gd,0,Fa,0,0,Fa,none,none,61000
+1,Norm,1963,1963.0,Lvl,0,1Story,Attchd,20,192,none,0,none,RL,8,0,Y,70.0,TA,HdBoard,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,154500
+1,Norm,1940,1940.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RL,6,0,N,60.0,TA,MetalSd,240,Unf,TA,TA,P,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,126000
+2,Norm,2005,2005.0,Lvl,0,SLvl,Basment,180,0,none,0,none,RM,5,0,Y,35.0,TA,VinylSd,525,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,28,TA,0,1,Gd,none,none,145000
+2,Norm,1979,1979.0,Low,0,1Story,Attchd,40,268,TA,0,none,RL,6,0,Y,70.04995836802665,TA,Plywood,586,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,0,TA,1,0,Gd,none,none,260000
+1,Norm,1939,1939.0,Lvl,0,1.5Fin,Detchd,50,45,Gd,0,none,RM,6,0,Y,50.0,TA,MetalSd,280,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Fa,1,1,TA,none,none,132500
+1,Norm,1955,1955.0,Lvl,0,SLvl,Basment,80,0,Gd,132,none,RL,6,189,Y,80.0,TA,AsbShng,364,LwQ,TA,TA,Y,Reg,TA,WD,0,Av,0,TA,2,1,TA,none,none,153000
+2,Norm,1952,1956.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,3,0,N,74.0,Fa,Brk Cmn,528,none,TA,TA,Y,Reg,Fa,WD,0,none,0,TA,0,1,none,none,none,82000
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,105,none,0,none,RL,5,0,Y,64.0,TA,VinylSd,632,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,61,TA,0,2,Gd,none,none,206000
+2,Norm,1984,1984.0,Lvl,0,1Story,Attchd,20,108,none,0,none,RL,7,0,Y,91.0,TA,Wd Sdng,440,Unf,TA,Gd,Y,Reg,Gd,WD,400,Mn,45,TA,0,2,Gd,Shed,none,202500
+3,Norm,2005,2005.0,Lvl,0,2Story,BuiltIn,60,240,Gd,0,none,RL,5,0,Y,101.0,TA,VinylSd,853,Unf,TA,Gd,Y,IR1,Gd,New,0,Av,154,TA,1,3,Ex,none,none,325300
+3,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,0,Gd,539,none,RL,5,0,Y,105.0,TA,VinylSd,672,ALQ,TA,Ex,Y,Reg,Ex,WD,0,Gd,72,TA,2,2,Ex,none,none,555000
+2,Norm,1956,1999.0,Bnk,0,1Story,Detchd,20,304,TA,0,none,RL,6,0,Y,70.04995836802665,TA,Wd Sdng,576,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,168000
+2,Norm,1984,1984.0,Lvl,0,2Story,Attchd,160,219,TA,182,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,577,LwQ,TA,Gd,Y,IR1,Gd,WD,0,Mn,0,TA,1,2,Gd,none,none,207500
+2,Norm,1980,1980.0,Lvl,0,SLvl,Attchd,80,233,TA,0,none,RL,5,0,Y,70.04995836802665,TA,Plywood,588,Unf,TA,TA,Y,Reg,TA,WD,0,Av,48,TA,2,2,Gd,none,none,187500
+2,Norm,1939,1939.0,Lvl,0,1.5Fin,Attchd,50,0,TA,0,none,RL,9,150,Y,70.04995836802665,TA,VinylSd,431,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,119,Gd,2,1,TA,none,none,311500
+2,Feedr,1908,1986.0,Lvl,0,1.5Fin,Attchd,50,104,none,0,none,RL,8,0,Y,92.0,TA,Plywood,576,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,Fa,none,none,127000
+2,Norm,1996,1996.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,70.0,TA,VinylSd,512,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,120,TA,1,2,Gd,none,none,191000
+2,Norm,1978,1978.0,Lvl,0,SFoyer,Attchd,85,0,TA,0,none,RL,6,0,Y,70.04995836802665,TA,VinylSd,470,Unf,TA,TA,Y,IR1,TA,WD,0,Av,0,TA,1,1,Gd,none,none,156000
+1,Norm,1958,1958.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,none,RL,5,0,Y,78.0,TA,MetalSd,315,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,144000
+1,Norm,1938,1951.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RM,6,190,Y,60.0,TA,Wd Sdng,297,Unf,TA,TA,Y,Reg,Gd,WD,0,none,65,TA,0,1,TA,none,none,125500
+2,Norm,2005,2005.0,Lvl,0,2Story,Attchd,60,0,none,0,none,FV,5,0,Y,75.0,TA,VinylSd,603,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,108,TA,0,2,Gd,none,none,226700
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,192,Gd,0,none,RM,5,0,Y,59.0,TA,VinylSd,484,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,30,TA,1,2,Gd,none,none,207000
+2,Norm,1991,1991.0,Lvl,0,2Story,Attchd,60,127,TA,0,none,RL,5,0,Y,121.0,TA,HdBoard,462,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,82,TA,1,2,Gd,none,none,260000
+3,Norm,2004,2004.0,Lvl,0,2Story,BuiltIn,60,192,Gd,0,none,RL,5,0,Y,76.0,TA,VinylSd,852,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,151,TA,1,2,Ex,none,none,317000
+3,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,184,Gd,0,none,RL,5,0,Y,74.0,TA,VinylSd,738,Unf,TA,Gd,Y,Reg,Ex,WD,0,none,0,TA,1,2,Ex,none,none,350000
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,65.0,TA,VinylSd,531,Unf,TA,Gd,Y,Reg,Gd,WD,0,Mn,39,TA,0,2,Gd,none,none,185000
+2,Norm,1989,1989.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,6,0,Y,82.0,TA,Plywood,575,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,84,TA,1,2,Gd,none,none,228500
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,6,0,Y,115.0,TA,VinylSd,308,Unf,TA,TA,P,Reg,TA,WD,0,Gd,104,Gd,2,1,TA,none,none,170000
+1,Norm,1915,1915.0,Lvl,0,2Story,Attchd,70,0,Gd,0,Pave,RM,8,0,Y,50.0,Fa,Stucco,164,Unf,Fa,Gd,Y,Reg,Ex,WD,0,none,0,TA,1,1,TA,none,none,155000
+2,Norm,1990,1990.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,114.0,TA,HdBoard,719,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,244,TA,1,2,Gd,none,none,179900
+2,Norm,1941,1991.0,Lvl,528,1.5Fin,Detchd,50,237,none,0,none,RM,6,0,Y,70.04995836802665,TA,MetalSd,660,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,128500
+3,Norm,2007,2007.0,Lvl,0,1Story,Attchd,20,168,none,0,none,RL,5,0,Y,93.0,TA,VinylSd,818,Unf,TA,Ex,Y,Reg,Gd,New,0,none,228,TA,0,2,Ex,none,none,318000
+0,Norm,1922,0.0,Lvl,0,1Story,none,30,0,none,0,none,RL,8,0,Y,56.0,none,Wd Sdng,0,Unf,none,TA,Y,Reg,TA,WD,0,none,96,TA,0,1,Fa,none,none,99900
+1,Norm,1940,1940.0,HLS,0,1.5Fin,Detchd,50,0,TA,0,none,RL,7,0,Y,130.0,TA,MetalSd,256,Unf,TA,Gd,Y,IR1,TA,WD,0,none,70,Gd,2,1,TA,none,none,160000
+1,Norm,1951,1951.0,Lvl,0,1Story,CarPort,20,324,TA,180,none,RL,7,0,Y,75.0,TA,Wd Sdng,288,Rec,TA,Gd,Y,Reg,TA,WD,2000,none,42,TA,2,1,TA,Shed,none,164900
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,0,none,0,none,FV,5,0,Y,84.0,TA,VinylSd,826,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,146,TA,0,2,Gd,none,none,249700
+1,Norm,1914,1914.0,Lvl,0,2Story,Detchd,70,203,none,0,none,RL,5,0,Y,96.0,Fa,Wd Sdng,180,Unf,Fa,TA,N,Reg,TA,WD,0,Mn,40,TA,0,1,Gd,none,none,138887
+2,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,74.0,TA,VinylSd,403,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,35,TA,1,2,Ex,none,none,178000
+2,Norm,2003,2003.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,72.0,TA,VinylSd,595,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,45,TA,0,2,Gd,none,none,183000
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,156,none,0,Pave,FV,5,0,Y,59.0,TA,MetalSd,530,Unf,TA,Gd,Y,IR2,Gd,WD,0,Mn,158,TA,0,2,Gd,none,none,196000
+0,Norm,1974,0.0,Lvl,0,2Story,none,90,32,none,0,none,RL,5,0,Y,60.0,none,VinylSd,0,Unf,none,TA,Y,Reg,TA,WD,0,none,45,TA,0,2,Gd,none,none,136000
+1,Norm,1930,1930.0,Bnk,0,1.5Unf,Attchd,45,0,Gd,0,Grvl,RM,7,205,Y,57.0,TA,Wd Sdng,280,Unf,TA,TA,N,Reg,Gd,WD,0,none,0,TA,1,1,TA,none,none,139400
+3,Norm,2006,2006.0,Lvl,0,2Story,Attchd,60,192,Gd,0,none,RL,5,0,Y,109.0,TA,VinylSd,947,Unf,TA,Gd,Y,Reg,Gd,New,0,none,62,TA,1,2,Ex,none,none,280000
+1,Norm,1916,1916.0,Bnk,0,2.5Unf,Detchd,75,0,Gd,0,none,RM,6,330,Y,65.0,TA,MetalSd,225,Unf,TA,TA,Y,IR1,TA,ConLw,0,none,0,TA,1,1,TA,none,none,144000
+2,Norm,2005,2005.0,Lvl,0,2Story,BuiltIn,60,100,Gd,0,none,RL,5,0,Y,60.0,TA,VinylSd,372,Unf,TA,Gd,Y,IR3,TA,WD,0,Av,40,TA,1,2,Gd,none,none,192140
+1,Norm,1965,1965.0,Lvl,0,1Story,Attchd,20,426,Gd,0,none,RL,6,0,Y,80.0,TA,HdBoard,384,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,140000
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,168,none,0,none,RL,6,0,Y,60.0,TA,Wd Shng,288,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,120000
+2,Norm,2001,2001.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,6,0,Y,70.0,TA,VinylSd,528,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,45,TA,0,2,Gd,none,none,227000
+2,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,91.0,TA,VinylSd,554,Unf,TA,Gd,Y,IR1,Ex,New,0,none,60,TA,0,2,Gd,none,none,227680
+2,Norm,1972,1972.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,7,0,Y,78.0,TA,Plywood,676,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,1,1,TA,none,none,197500
+1,Norm,1900,1940.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,none,RM,4,77,N,63.0,TA,Wd Sdng,352,Unf,Fa,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,79000
+3,Norm,2009,2009.0,Lvl,0,1Story,Attchd,20,156,Gd,0,none,RL,5,0,Y,94.0,TA,CmentBd,900,Unf,TA,Ex,Y,Reg,Ex,New,0,none,54,TA,1,2,Ex,none,none,402861
+2,Norm,1978,1978.0,Lvl,0,2Story,Attchd,160,26,TA,0,none,RL,5,0,Y,24.0,TA,Brk Cmn,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,Gd,none,none,146000
+2,Norm,1998,1998.0,Lvl,0,2Story,BuiltIn,60,208,TA,0,none,RL,5,0,Y,66.0,TA,VinylSd,683,Unf,TA,Gd,Y,IR3,Gd,WD,0,none,50,TA,1,2,Gd,none,none,267000
+2,Norm,1948,1948.0,Lvl,0,1Story,Attchd,20,0,none,608,none,RM,7,0,Y,100.0,TA,MetalSd,528,ALQ,TA,TA,Y,Reg,Gd,WD,0,none,36,TA,0,1,TA,none,none,147000
+3,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,172,Gd,0,none,RL,5,0,Y,61.0,TA,VinylSd,860,Unf,TA,Gd,Y,IR1,Ex,WD,0,Gd,42,TA,1,2,Ex,none,none,295493
+1,Norm,1965,1965.0,Lvl,0,1Story,Detchd,20,0,none,466,none,RL,6,0,Y,70.0,TA,VinylSd,429,Rec,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,117500
+2,Norm,2002,2002.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,393,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,75,TA,1,2,Gd,none,none,183200
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,20,100,none,0,none,RL,5,0,Y,129.0,TA,VinylSd,573,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,150,TA,0,2,Ex,none,none,201000
+0,Norm,1977,0.0,Lvl,0,1Story,none,90,321,none,0,none,RL,3,0,Y,42.0,none,MetalSd,0,Unf,none,TA,N,IR1,TA,Oth,0,Gd,0,TA,0,2,Gd,none,none,150000
+1,Norm,1950,1950.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,none,RL,8,0,Y,80.0,TA,VinylSd,271,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,140000
+1,Norm,1936,1936.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RM,6,0,Y,50.0,TA,MetalSd,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,128000
+2,Norm,1979,1979.0,Lvl,0,SFoyer,Detchd,90,42,TA,0,none,RL,5,0,Y,70.04995836802665,TA,MetalSd,600,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,0,TA,2,1,Gd,none,none,135960
+1,Norm,1924,1924.0,Lvl,0,1Story,Detchd,30,316,none,0,none,RL,8,120,Y,52.0,Fa,VinylSd,240,Unf,Fa,Gd,N,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,109500
+1,Norm,1948,1948.0,Lvl,0,1Story,Detchd,20,0,none,169,none,RM,5,0,Y,50.0,TA,VinylSd,250,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,115000
+1,Norm,1968,1968.0,Lvl,0,1Story,Attchd,20,466,Fa,0,none,RL,5,0,Y,70.04995836802665,TA,Plywood,336,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,TA,none,none,158000
+2,Norm,1936,1971.0,Lvl,0,2Story,Detchd,70,256,none,210,none,RL,9,0,Y,60.0,TA,Wd Sdng,576,BLQ,TA,Gd,Y,Reg,Gd,WD,0,none,0,Gd,0,1,Gd,none,none,155000
+2,Norm,1994,1994.0,Lvl,0,2Story,Attchd,60,186,TA,0,none,RL,5,0,Y,98.0,TA,HdBoard,712,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,32,TA,2,2,Ex,none,none,325000
+2,Norm,1996,1996.0,Lvl,0,1Story,Attchd,20,115,TA,0,none,RL,5,0,Y,73.0,TA,VinylSd,478,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,66,TA,1,2,Gd,none,none,203000
+1,Norm,1920,1920.0,Lvl,0,2Story,Detchd,70,0,none,0,Pave,C (all),4,172,N,50.0,Fa,BrkFace,250,Unf,TA,TA,N,Reg,TA,WD,0,none,54,Fa,0,1,TA,none,none,40000
+2,Norm,1946,1946.0,HLS,0,2Story,Attchd,90,0,none,0,none,RH,6,0,N,82.0,TA,MetalSd,492,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,2,Gd,none,none,145000
+0,Norm,1930,0.0,Bnk,0,1.5Unf,none,45,0,TA,0,none,RM,7,0,Y,55.0,none,Wd Sdng,0,Unf,none,TA,N,IR1,TA,WD,0,none,0,Gd,1,1,TA,none,none,87000
+2,Norm,1992,1992.0,Lvl,0,2Story,Attchd,60,120,TA,0,none,RL,5,0,Y,80.0,TA,HdBoard,506,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,150,TA,1,2,Gd,none,none,220000
+1,Norm,1972,1972.0,Lvl,0,2Story,Detchd,160,250,none,0,none,RM,8,0,Y,21.0,TA,HdBoard,264,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,118000
+2,Norm,1992,1992.0,Low,0,2Story,Attchd,60,216,Fa,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,501,Unf,TA,Gd,Y,IR2,Gd,WD,0,Av,231,TA,2,2,Gd,none,none,240000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,160,none,0,none,RL,5,0,Y,78.0,TA,VinylSd,660,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,24,TA,0,2,Gd,none,none,260000
+2,Norm,1995,1995.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,80.0,TA,VinylSd,466,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,155,TA,1,2,Gd,none,none,239500
+2,Norm,2007,2007.0,Lvl,0,1Story,Attchd,20,132,none,0,none,RL,5,0,Y,64.0,TA,VinylSd,632,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,0,2,Gd,none,none,194500
+2,Norm,1927,1927.0,Lvl,0,1Story,Detchd,30,0,Gd,0,Grvl,RM,6,130,Y,56.0,TA,Wd Shng,360,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,115000
+1,Norm,1922,1922.0,Lvl,0,1Story,Detchd,30,0,Gd,0,none,RM,4,48,N,60.0,Fa,Wd Sdng,210,Unf,TA,TA,P,Reg,TA,WD,0,none,100,TA,1,1,TA,none,none,91000
+3,PosN,2007,2007.0,Bnk,0,2Story,BuiltIn,60,208,Gd,0,none,RL,5,0,Y,130.0,TA,CmentBd,884,Unf,TA,Ex,Y,IR1,Ex,New,0,Gd,406,TA,1,3,Ex,none,none,184750
+2,Norm,1949,1956.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,5,0,N,60.0,TA,Stone,420,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,none,none,none,90000
+1,Norm,1926,1926.0,Lvl,0,1.5Unf,Detchd,45,0,none,0,none,RM,7,105,Y,50.0,TA,Wd Sdng,180,Unf,TA,Gd,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,119000
+3,Norm,2007,2007.0,Lvl,0,1Story,Attchd,20,327,Gd,0,none,RL,5,0,Y,86.0,TA,CmentBd,768,Unf,TA,Ex,Y,IR1,Ex,WD,0,none,64,TA,1,2,Ex,none,none,320000
+2,Norm,1963,1963.0,Bnk,0,1Story,CarPort,90,106,none,712,none,RM,5,0,N,110.0,TA,Wd Sdng,516,GLQ,TA,Fa,Y,IR2,TA,WD,0,Gd,0,TA,0,1,Gd,none,none,110000
+2,Norm,1966,1966.0,Lvl,0,2Story,Attchd,60,0,none,64,none,RL,8,0,Y,70.04995836802665,TA,HdBoard,484,Rec,TA,TA,Y,Reg,Gd,WD,0,none,40,TA,0,1,TA,none,none,173000
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,123,Gd,0,none,RL,5,0,Y,68.0,TA,VinylSd,660,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,110,TA,1,2,Gd,none,none,220000
+2,Norm,1979,1979.0,Bnk,0,1Story,Attchd,90,0,none,0,none,RL,5,0,Y,64.0,TA,HdBoard,410,none,TA,TA,Y,Reg,TA,WD,0,none,0,Fa,0,2,none,none,none,118964
+2,Norm,2003,2003.0,Lvl,0,2Story,BuiltIn,60,182,Gd,0,none,FV,5,0,Y,75.0,TA,VinylSd,615,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,182,TA,1,2,Gd,none,none,263000
+2,Norm,2000,2000.0,Lvl,0,2Story,Detchd,160,0,none,0,none,FV,5,0,Y,70.04995836802665,TA,MetalSd,440,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,32,TA,0,2,Gd,none,none,177500
+2,Norm,1952,1952.0,Lvl,0,2Story,Detchd,90,0,none,0,Grvl,RM,5,0,Y,60.0,TA,Wd Sdng,400,Unf,TA,TA,N,Reg,TA,COD,0,none,0,TA,0,2,TA,none,none,124500
+2,Norm,2002,2002.0,Lvl,0,1Story,Attchd,20,171,Gd,0,none,RL,5,0,Y,75.0,TA,VinylSd,534,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,159,TA,1,2,Gd,none,none,230000
+1,Norm,1998,1998.0,Lvl,0,SFoyer,Attchd,120,120,none,139,none,RH,5,0,Y,34.0,TA,MetalSd,367,LwQ,TA,TA,Y,Reg,TA,WD,0,Av,40,TA,0,1,Gd,none,none,133000
+1,Norm,1969,1969.0,Lvl,0,1Story,Attchd,20,0,Po,0,none,RL,6,0,Y,69.0,TA,Plywood,300,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,0,TA,1,1,Gd,none,none,128500
+2,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,70.0,TA,BrkFace,447,Unf,TA,TA,Y,IR1,Gd,WD,0,none,38,TA,1,1,TA,none,none,165500
+3,Norm,2003,2003.0,HLS,0,2Story,BuiltIn,60,503,Gd,0,none,RL,5,0,Y,47.0,TA,Wd Shng,841,Unf,TA,Ex,Y,IR2,Ex,WD,0,Gd,36,TA,1,3,Gd,none,none,538000
+0,Norm,1990,0.0,Lvl,0,SFoyer,none,90,0,none,0,none,RL,5,0,Y,81.0,none,HdBoard,0,Unf,none,TA,Y,Reg,TA,WD,0,Av,32,Gd,0,1,Gd,none,none,118500
+0,Norm,1940,0.0,HLS,0,1Story,none,30,164,none,0,none,RL,7,0,Y,50.0,none,VinylSd,0,Unf,none,Fa,Y,Reg,Fa,WD,0,none,0,TA,0,1,TA,none,none,82500
+3,Norm,2007,2007.0,HLS,0,1Story,Attchd,20,100,none,0,none,RL,5,0,Y,73.0,TA,VinylSd,610,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,18,TA,0,2,Gd,none,none,201000
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,120,100,TA,0,none,RM,7,0,Y,44.0,TA,CmentBd,572,Unf,TA,TA,Y,Reg,TA,WD,0,none,110,TA,1,1,Gd,none,none,129900
+2,Norm,2002,2002.0,Lvl,0,2Story,Attchd,60,144,TA,0,none,RL,5,0,Y,65.0,TA,VinylSd,474,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,96,TA,1,2,Gd,none,none,192500
+2,Norm,1970,1970.0,Lvl,0,2Story,Attchd,160,0,none,0,none,RM,6,0,Y,24.0,TA,HdBoard,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,36,TA,0,1,TA,none,none,125000
+0,Norm,1994,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,5,0,Y,60.0,none,VinylSd,0,Unf,none,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,Gd,none,none,123600
+2,Norm,1963,1974.0,Lvl,0,1Story,Attchd,20,0,Po,0,none,RL,5,0,Y,75.0,TA,HdBoard,459,Unf,TA,TA,Y,Reg,TA,WD,0,none,82,TA,1,1,TA,none,none,148000
+2,Norm,1956,1956.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,73.0,TA,Wd Sdng,480,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,1,1,TA,none,none,127500
+2,Norm,2006,2006.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,85.0,TA,VinylSd,440,Unf,TA,Gd,Y,IR1,Gd,New,0,none,0,TA,1,2,Gd,none,none,155835
+2,Norm,2001,2001.0,Lvl,0,1Story,Attchd,120,0,Gd,0,none,RL,5,0,Y,41.0,TA,CmentBd,682,Unf,TA,Gd,Y,Reg,Ex,WD,0,Av,120,TA,1,1,Ex,none,none,286000
+0,Norm,1991,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,5,0,Y,63.0,none,HdBoard,0,Unf,none,TA,Y,Reg,TA,Oth,0,Mn,28,TA,0,1,Gd,none,none,93500
+2,Norm,1996,1998.0,Lvl,0,SFoyer,Detchd,85,0,none,0,none,RL,5,0,Y,57.0,TA,VinylSd,576,Unf,TA,Gd,Y,IR1,TA,WD,0,Av,0,TA,0,1,Gd,none,none,148000
+1,Norm,1962,1962.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,40.0,TA,HdBoard,349,Unf,TA,TA,Y,IR1,TA,WD,0,none,30,Gd,1,1,TA,none,none,143900
+1,Norm,1941,1941.0,Lvl,0,1.5Fin,Detchd,50,48,none,380,none,RL,6,0,N,60.0,Fa,VinylSd,200,Rec,TA,TA,Y,Reg,TA,ConLw,0,Mn,0,TA,0,1,TA,none,none,95000
+2,Norm,1910,1985.0,Lvl,0,1.5Fin,Detchd,50,242,Gd,0,none,RL,6,81,Y,53.0,TA,Wd Shng,552,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,TA,none,none,139000
+2,Norm,1970,1970.0,Lvl,0,1Story,Attchd,20,98,Gd,0,none,RL,6,0,Y,80.0,TA,Plywood,530,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,TA,none,none,174000
+2,Norm,1960,1960.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,4,0,Y,100.0,TA,HdBoard,336,none,TA,TA,Y,Reg,TA,WD,0,none,0,Fa,1,1,none,none,none,115000
+1,Norm,1966,1966.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,110000
+0,Norm,1971,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,4,0,Y,70.04995836802665,none,HdBoard,0,Unf,none,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,88000
+0,Norm,1910,0.0,Lvl,0,1.5Fin,none,50,0,none,0,Grvl,RM,7,0,Y,55.0,none,Wd Sdng,0,Unf,none,TA,N,Reg,TA,WD,0,none,160,TA,0,1,TA,none,none,96500
+2,Norm,1953,1953.0,Lvl,0,1Story,Attchd,20,196,none,0,none,RL,7,150,Y,74.0,TA,Wd Shng,414,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,0,1,TA,none,none,116000
+1,Norm,1945,1945.0,Lvl,0,2Story,Detchd,70,224,TA,150,none,RL,8,0,Y,61.0,TA,Wd Sdng,180,LwQ,TA,TA,Y,IR1,Gd,WD,0,none,0,TA,1,2,TA,none,none,259500
+3,Norm,2009,2009.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,94.0,TA,VinylSd,740,Unf,TA,TA,Y,IR1,Gd,WD,0,none,36,TA,0,2,Gd,none,none,198900
+2,Norm,1920,1980.0,Lvl,0,1.5Fin,Detchd,50,30,none,0,none,C (all),4,164,Y,60.0,TA,MetalSd,528,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,Gd,0,1,TA,none,none,68400
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,120,142,Gd,0,none,RL,5,0,Y,43.0,TA,VinylSd,440,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,20,TA,1,2,Gd,none,none,213490
+0,Norm,1970,0.0,Lvl,0,2Story,none,160,0,TA,0,none,RM,6,0,Y,21.0,none,CmentBd,0,Unf,none,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,97000
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,20,0,Fa,0,none,RL,8,0,Y,90.0,TA,Plywood,528,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,21,Gd,1,2,Gd,none,none,218000
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,20,144,none,0,none,RL,5,0,Y,72.0,TA,VinylSd,558,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,29,TA,0,2,Gd,none,none,226000
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,169,Gd,0,none,RL,5,0,Y,87.0,TA,VinylSd,908,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,39,TA,1,2,Ex,none,none,255500
+2,Norm,1920,1930.0,Lvl,0,2Story,Detchd,70,0,none,0,none,RM,9,0,Y,50.0,TA,VinylSd,324,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,143000
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,165,Gd,0,none,RL,5,0,Y,88.0,TA,VinylSd,620,Unf,TA,Gd,Y,IR1,Gd,COD,0,none,44,TA,1,2,Gd,none,none,257000
+2,Norm,2007,2007.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,73.0,TA,VinylSd,436,Unf,TA,Gd,Y,IR1,Gd,New,0,Av,22,TA,0,2,Gd,none,none,176485
+2,Norm,1998,1998.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,58.0,TA,VinylSd,486,Unf,TA,Gd,Y,IR2,TA,WD,0,none,81,TA,0,2,Gd,none,none,221000
+0,Norm,1930,0.0,Lvl,0,2Story,none,190,0,none,0,none,RM,5,0,N,70.0,none,Wd Shng,0,none,none,Fa,N,Reg,Fa,WD,3500,none,0,Fa,0,2,none,Othr,none,55000
+1,Norm,1880,1937.0,Lvl,0,2Story,Detchd,70,0,none,0,Grvl,RM,6,293,Y,50.0,Po,VinylSd,240,Unf,Fa,TA,N,Reg,Ex,WD,0,none,0,TA,0,1,Fa,none,none,124000
+1,Norm,1948,1981.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RM,7,0,Y,50.0,TA,MetalSd,308,Unf,TA,TA,Y,Reg,TA,WD,0,none,176,Gd,0,1,TA,none,none,120000
+2,Norm,2006,2006.0,Lvl,0,2Story,Attchd,60,0,none,0,none,FV,5,0,Y,65.0,TA,VinylSd,614,Unf,TA,Gd,Y,Reg,Gd,New,0,none,50,TA,0,2,Gd,none,none,197000
+2,Norm,1916,1957.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,7,0,Y,40.0,TA,MetalSd,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,109900
+2,Norm,1990,1990.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,50.0,Gd,HdBoard,484,Unf,Gd,TA,Y,IR1,TA,WD,0,none,58,TA,1,2,Gd,none,none,180000
+2,Artery,1900,1920.0,Bnk,0,2Story,CarPort,190,0,none,0,none,RL,5,0,Y,107.0,Fa,HdBoard,420,Unf,Fa,TA,Y,IR1,TA,WD,0,Mn,74,TA,0,2,Fa,none,none,95000
+2,Norm,2001,2001.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,68.0,TA,VinylSd,608,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,42,TA,1,2,Gd,none,none,223500
+2,Norm,2000,2000.0,Lvl,0,SLvl,BuiltIn,80,100,TA,0,none,RL,5,0,Y,76.0,TA,VinylSd,400,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,2,Gd,none,none,170000
+3,Norm,2006,2006.0,HLS,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,93.0,TA,VinylSd,712,Unf,TA,Gd,Y,IR1,Gd,New,0,Gd,0,TA,1,2,Ex,none,none,283463
+1,Norm,1957,1964.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,6,0,Y,77.0,TA,MetalSd,352,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,109008
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,404,Ex,0,none,RL,5,0,Y,108.0,TA,VinylSd,840,Unf,TA,Gd,Y,IR1,Ex,WD,0,none,102,TA,2,2,Ex,none,none,325000
+2,Norm,1998,1998.0,Lvl,0,1Story,Attchd,20,78,TA,1127,none,RL,5,0,Y,78.0,TA,VinylSd,583,GLQ,TA,Gd,Y,Reg,Gd,WD,0,none,73,TA,1,2,Ex,none,none,213250
+2,Norm,1998,1998.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,63.0,TA,VinylSd,462,Unf,TA,TA,Y,IR1,TA,WD,0,none,28,TA,1,2,Gd,none,none,176500
+1,Norm,1950,1950.0,Lvl,0,1Story,Attchd,20,0,none,96,none,RL,7,0,Y,60.0,TA,MetalSd,276,Rec,TA,TA,Y,Reg,TA,WD,0,none,80,TA,0,1,TA,none,none,119000
+1,Norm,1954,1954.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,Grvl,RM,5,0,N,81.0,TA,MetalSd,352,Unf,Fa,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,131500
+1,Norm,1948,1948.0,Lvl,0,1Story,Detchd,20,0,Gd,0,none,RL,6,0,Y,50.0,TA,VinylSd,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,1,1,TA,none,none,132000
+2,Norm,1987,1987.0,Lvl,0,1Story,Attchd,20,125,TA,40,none,RL,6,0,Y,54.0,TA,HdBoard,551,LwQ,TA,TA,Y,IR1,Gd,WD,0,none,0,TA,1,2,Gd,none,none,176000
+1,Norm,1950,1950.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,214,Y,57.0,TA,BrkFace,306,Unf,TA,TA,Y,IR1,Gd,WD,0,none,0,TA,1,1,TA,none,none,124000
+1,Norm,1953,1953.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,68.0,TA,VinylSd,246,Unf,TA,TA,Y,Reg,Gd,WD,0,none,52,Gd,0,1,TA,none,none,109000
+1,Norm,1960,1960.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,36,Y,70.04995836802665,TA,Wd Sdng,286,Unf,TA,TA,Y,IR1,TA,WD,600,none,0,TA,1,1,TA,Shed,none,139900
+1,Norm,1958,1958.0,Lvl,0,SLvl,BuiltIn,80,280,none,0,none,RL,6,0,Y,85.0,TA,MetalSd,300,Unf,TA,TA,Y,Reg,TA,WD,0,none,34,Gd,0,1,TA,none,none,140000
+2,Norm,1954,1989.0,Lvl,0,1Story,Attchd,20,0,none,362,none,RL,7,0,Y,85.0,TA,Wd Sdng,490,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,144900
+3,Norm,2007,2007.0,HLS,0,1Story,Attchd,20,100,Gd,0,none,RL,5,0,Y,89.0,TA,VinylSd,722,Unf,TA,Gd,Y,IR1,Gd,New,0,Gd,36,TA,1,2,Gd,none,none,239000
+1,Norm,1964,1964.0,Lvl,0,1Story,Attchd,20,0,none,600,none,RL,5,0,Y,66.0,TA,Wd Sdng,288,LwQ,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,115000
+3,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,96.0,TA,VinylSd,774,Unf,TA,Ex,Y,Reg,Ex,New,0,Av,66,TA,1,2,Ex,none,none,394617
+3,Norm,2006,2006.0,Lvl,0,2Story,Attchd,60,208,Gd,0,none,FV,5,0,Y,75.0,TA,VinylSd,1025,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,46,TA,1,2,Gd,none,none,270000
+1,Norm,1941,1941.0,Lvl,0,2Story,Attchd,70,0,Gd,0,none,RL,9,0,Y,66.0,TA,CmentBd,252,Unf,TA,Ex,Y,Reg,Gd,WD,2500,none,60,Gd,2,2,TA,Shed,none,266500
+2,Norm,1937,1995.0,Bnk,0,1Story,Detchd,30,0,none,0,none,RM,7,0,Y,50.0,TA,Stucco,672,Unf,TA,TA,Y,Reg,TA,WD,0,none,72,TA,0,1,Fa,none,none,89471
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,120,149,TA,0,none,RM,5,0,Y,70.04995836802665,TA,VinylSd,420,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,1,1,Gd,none,none,149300
+1,Norm,1956,1956.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,70.04995836802665,TA,VinylSd,283,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,135750
+2,Norm,1978,1978.0,Lvl,0,SLvl,Attchd,80,168,TA,391,none,RL,7,0,Y,70.04995836802665,TA,Plywood,588,Rec,TA,TA,Y,IR1,Gd,WD,0,Gd,180,TA,1,1,Gd,none,none,194000
+1,Norm,1957,1957.0,Lvl,0,1Story,Attchd,20,288,Gd,0,none,RL,6,0,Y,47.0,TA,MetalSd,319,Unf,TA,TA,Y,IR1,TA,WD,0,Gd,258,TA,2,1,TA,none,none,207500
+1,Norm,1900,1978.0,Lvl,0,1.5Fin,Detchd,50,0,none,391,Grvl,RL,8,112,Y,50.0,TA,MetalSd,384,BLQ,TA,TA,Y,Reg,TA,WD,0,none,130,TA,0,1,TA,none,none,119000
+2,Norm,1998,1998.0,Lvl,0,2Story,Attchd,60,0,none,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,546,Unf,TA,TA,Y,IR1,TA,WD,0,Mn,36,TA,0,2,Gd,none,none,211000
+2,Norm,1924,1965.0,Lvl,0,1Story,Detchd,30,0,none,0,none,RM,5,0,Y,60.0,TA,Wd Sdng,440,Unf,TA,TA,Y,Reg,Fa,WD,0,Mn,0,TA,0,1,TA,none,none,100000
+1,Norm,1931,1931.0,Lvl,0,1Story,Detchd,30,48,none,0,none,RM,7,0,Y,51.0,TA,Wd Sdng,180,Unf,Fa,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,105000
+1,Norm,1936,1936.0,Lvl,0,1.5Fin,Detchd,50,200,none,0,none,RM,4,0,Y,70.04995836802665,TA,MetalSd,240,Unf,Fa,TA,Y,Reg,TA,WD,0,none,114,TA,0,1,Gd,none,none,115000
+3,Norm,1999,1999.0,Lvl,0,2Story,Attchd,60,224,TA,0,none,RL,5,0,Y,73.0,TA,VinylSd,660,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,106,TA,2,2,Gd,none,none,230000
+0,Norm,1940,0.0,Lvl,0,1Story,none,30,263,none,0,none,RL,2,0,Y,55.0,none,Plywood,0,Unf,none,TA,Y,IR1,Fa,WD,450,none,0,Po,0,1,TA,Shed,none,76500
+2,Norm,1931,1931.0,Lvl,0,1.5Fin,Detchd,50,90,TA,0,none,RM,5,205,Y,51.0,TA,Wd Shng,468,Unf,Fa,TA,Y,Reg,TA,WD,0,none,0,TA,2,2,TA,none,none,129900
+1,Norm,1947,1948.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,Grvl,RM,7,0,Y,50.0,TA,AsbShng,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,35,TA,0,1,TA,none,none,110000
+3,Norm,2009,2009.0,Lvl,0,2Story,BuiltIn,60,0,Gd,0,none,RL,5,0,Y,92.0,TA,VinylSd,680,Unf,TA,Gd,Y,Reg,Ex,New,0,none,75,TA,1,2,Ex,none,none,269500
+0,Norm,1935,0.0,Lvl,0,1Story,none,30,0,none,0,none,RL,6,0,Y,56.0,none,VinylSd,0,Unf,none,Gd,N,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,52000
+2,Norm,1936,1995.0,Lvl,0,1.5Fin,Detchd,50,112,none,0,none,RM,6,0,Y,51.0,TA,Wd Sdng,576,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Fa,0,1,TA,none,none,141500
+3,Norm,2008,2008.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,5,0,Y,96.0,TA,VinylSd,836,Unf,TA,Ex,Y,IR1,Ex,WD,0,Av,102,TA,1,2,Ex,none,none,335000
+2,Norm,2007,2007.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,85.0,TA,VinylSd,484,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,30,TA,0,2,Ex,none,none,179900
+2,Norm,1976,1976.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,5,0,Y,63.0,TA,Plywood,560,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,TA,none,none,188000
+1,Norm,1958,1970.0,Lvl,0,1Story,Detchd,20,316,TA,374,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,484,Rec,TA,TA,Y,Reg,TA,WD,0,none,28,TA,1,1,TA,none,none,144000
+2,Norm,2005,2005.0,Lvl,80,2Story,Detchd,160,0,none,0,Pave,FV,5,0,Y,30.0,TA,MetalSd,480,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,166,TA,0,2,Gd,none,none,144152
+1,Norm,1948,1948.0,Lvl,0,1.5Fin,Attchd,50,0,Gd,0,none,RL,5,108,Y,115.0,TA,Wd Sdng,312,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,TA,none,none,135000
+0,Norm,1925,0.0,Lvl,0,1Story,none,30,0,none,0,none,RL,6,96,N,67.0,none,Stucco,0,Unf,none,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,98000
+2,Norm,1998,1998.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,48.0,TA,VinylSd,598,Unf,TA,TA,Y,IR2,Gd,WD,0,none,34,TA,0,2,Gd,none,none,224900
+1,Norm,1922,1922.0,Lvl,0,1Story,Detchd,30,0,Gd,0,none,RL,5,67,Y,80.0,Fa,MetalSd,252,Unf,TA,TA,Y,Reg,Fa,WD,0,none,0,TA,1,1,Fa,none,none,137500
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,120,120,Gd,0,none,RL,5,0,Y,44.0,TA,VinylSd,484,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,49,TA,1,2,Gd,none,none,202500
+2,Norm,2003,2003.0,Lvl,0,SLvl,Attchd,80,160,Gd,0,none,RL,5,0,Y,73.0,TA,VinylSd,438,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,22,TA,1,2,Ex,none,none,187500
+2,Norm,1990,1990.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,99.0,TA,HdBoard,500,Unf,TA,TA,Y,Reg,TA,WD,0,none,34,TA,0,2,Gd,none,none,180500
+0,Norm,1875,0.0,Lvl,0,1.5Fin,none,50,0,none,0,none,RL,8,176,N,54.0,none,VinylSd,0,Unf,none,TA,N,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,94000
+2,Norm,1961,1961.0,Lvl,0,1Story,Attchd,20,168,none,0,none,RL,5,0,Y,85.0,TA,VinylSd,544,Unf,TA,TA,Y,Reg,Fa,WD,400,none,0,TA,0,1,TA,Shed,none,129000
+1,Norm,1958,1958.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,70.0,TA,Wd Sdng,275,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,0,1,TA,none,none,114500
+1,Norm,1960,1960.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,7,0,Y,70.0,TA,Wd Sdng,254,Unf,TA,TA,Y,Reg,TA,WD,0,none,16,TA,0,1,TA,none,none,135000
+2,Norm,1959,2005.0,Lvl,0,1Story,Attchd,90,272,none,0,none,RL,5,0,Y,70.0,TA,MetalSd,588,Unf,TA,TA,Y,Reg,TA,WD,0,none,54,TA,0,2,TA,none,none,145000
+2,Norm,1971,1974.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,6,0,Y,60.0,TA,HdBoard,528,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,120500
+2,Norm,1994,1994.0,Lvl,0,2Story,Attchd,60,0,Fa,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,463,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,130,TA,2,2,Gd,none,none,205000
+2,Norm,1969,1969.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,80.0,TA,HdBoard,528,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,0,1,TA,none,none,140000
+2,Norm,1954,1954.0,Lvl,0,1Story,Attchd,20,0,TA,0,none,RL,5,0,Y,75.0,TA,BrkFace,451,Unf,TA,TA,Y,Reg,TA,WD,0,none,30,TA,1,1,TA,none,none,140000
+2,Norm,1978,1981.0,Low,0,SLvl,Detchd,80,0,none,435,none,RL,6,34,Y,70.04995836802665,Fa,HdBoard,576,LwQ,TA,TA,Y,IR1,TA,WD,0,Gd,0,TA,0,1,Gd,none,none,147000
+1,Norm,1968,1968.0,Lvl,0,1Story,Attchd,20,356,none,0,none,RL,5,0,Y,70.0,TA,HdBoard,288,Unf,TA,TA,Y,Reg,TA,WD,0,Av,0,TA,0,1,TA,none,none,138500
+2,Norm,1997,1997.0,Lvl,0,1Story,Attchd,20,168,none,0,none,RL,5,0,Y,79.0,TA,VinylSd,576,Unf,TA,TA,Y,IR1,Gd,WD,0,Gd,27,Gd,0,2,Gd,none,none,217000
+2,Norm,2005,2005.0,Lvl,0,2Story,Attchd,60,0,none,0,none,FV,5,0,Y,65.0,TA,VinylSd,615,Unf,TA,Gd,Y,Reg,Gd,New,0,none,45,TA,0,2,Gd,none,none,186500
+2,Norm,1976,1976.0,Lvl,0,1Story,Attchd,120,0,none,0,none,RL,6,0,Y,70.04995836802665,TA,Plywood,440,Unf,TA,TA,Y,IR1,TA,WD,0,none,60,TA,0,2,Gd,none,none,143750
+3,Norm,2005,2005.0,Lvl,0,2Story,BuiltIn,60,147,Gd,0,none,RL,5,0,Y,85.0,TA,Wd Shng,736,Unf,TA,Ex,Y,IR1,Ex,New,0,none,21,TA,2,3,Ex,none,none,345000
+1,Norm,1915,1960.0,Lvl,0,2Story,Attchd,70,0,none,0,none,RL,7,160,Y,63.0,TA,Plywood,308,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,Gd,none,none,177000
+2,Norm,1925,1925.0,Bnk,0,1.5Fin,Detchd,50,342,Gd,0,none,RL,5,128,Y,60.0,TA,MetalSd,576,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,TA,none,none,136500
+3,Norm,2006,2006.0,Lvl,0,2Story,BuiltIn,60,100,Gd,0,none,RL,5,0,Y,58.0,TA,VinylSd,660,Unf,TA,Gd,Y,IR1,Gd,New,0,Av,17,TA,1,2,Gd,none,none,219210
+2,Norm,2001,2001.0,Lvl,0,2Story,BuiltIn,60,144,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,434,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,48,TA,1,2,Gd,none,none,222500
+1,Norm,1967,1967.0,Lvl,0,1Story,Attchd,20,64,none,0,none,RL,7,0,Y,65.0,TA,HdBoard,288,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,0,1,TA,none,none,130000
+1,Norm,1976,1977.0,Lvl,0,SLvl,Detchd,80,296,Fa,0,none,RL,6,0,Y,72.0,TA,MetalSd,352,Unf,TA,TA,Y,Reg,TA,WD,0,Av,0,TA,1,1,TA,none,none,125000
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,70.0,TA,Plywood,672,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,132500
+3,Norm,2006,2006.0,Lvl,0,2Story,BuiltIn,60,177,Gd,0,none,RL,5,0,Y,86.0,TA,VinylSd,753,Unf,TA,Gd,Y,IR1,Ex,New,0,Mn,74,TA,1,2,Gd,none,none,281000
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,120,143,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,400,Unf,TA,Gd,Y,Reg,Gd,WD,0,Gd,20,TA,1,2,Gd,none,none,215000
+1,Norm,1913,1990.0,Lvl,0,1Story,Detchd,30,0,Gd,0,none,RL,6,34,N,40.0,TA,Stucco,352,Unf,Gd,TA,P,Reg,Gd,WD,0,none,0,TA,1,1,TA,none,none,90350
+1,Norm,1950,1950.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,7,120,Y,80.0,TA,MetalSd,264,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,80,TA,1,1,TA,none,none,147000
+2,Norm,1961,1961.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,0,Y,75.0,TA,VinylSd,456,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,139950
+3,Norm,1990,1990.0,Lvl,0,2Story,Attchd,60,127,TA,0,none,RL,5,224,Y,116.0,TA,Plywood,746,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,44,TA,1,2,Gd,none,none,225000
+1,Norm,1950,1950.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,none,RL,5,96,Y,80.0,TA,VinylSd,288,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,119000
+1,Norm,1959,1959.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,120,Y,73.0,TA,MetalSd,312,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,148000
+2,Norm,2009,2009.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,FV,5,0,Y,70.04995836802665,TA,MetalSd,484,Unf,TA,Ex,Y,IR2,Gd,New,0,Av,144,TA,1,2,Ex,none,none,222000
+2,Norm,2006,2006.0,HLS,0,1Story,Attchd,20,120,Gd,0,none,RL,5,0,Y,64.0,TA,VinylSd,472,Unf,TA,Gd,Y,IR1,Ex,WD,0,Av,33,TA,1,2,Gd,none,none,265900
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,5,0,Y,70.0,TA,VinylSd,606,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,35,TA,0,2,Gd,none,none,213000
+2,Norm,2005,2005.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,5,0,Y,65.0,TA,VinylSd,390,Unf,TA,Gd,Y,Reg,Gd,New,0,none,24,TA,1,2,Gd,none,none,163990
+3,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,144,none,0,none,RL,5,0,Y,84.0,TA,VinylSd,782,Unf,TA,Gd,Y,Reg,Gd,New,0,Av,20,TA,0,2,Gd,none,none,212900
+2,Norm,1963,1963.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,Plywood,514,Unf,TA,TA,Y,IR1,TA,WD,0,none,76,TA,2,1,Gd,none,none,159000
+2,Norm,2003,2003.0,Lvl,0,1Story,Attchd,20,132,none,0,none,RM,5,0,Y,80.0,TA,VinylSd,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,64,TA,0,2,Gd,none,none,140000
+3,Norm,2006,2006.0,HLS,0,1Story,Attchd,20,201,Gd,0,none,RL,5,0,Y,42.0,TA,VinylSd,758,Unf,TA,Ex,Y,IR1,Ex,WD,0,Gd,39,TA,2,2,Ex,none,none,377500
+2,Norm,1951,1951.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,67.0,TA,Wd Sdng,396,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,0,1,Fa,none,none,102000
+2,Norm,1970,1970.0,Lvl,0,1Story,Attchd,20,301,Gd,0,none,RL,5,0,Y,70.04995836802665,TA,Plywood,576,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,0,TA,1,2,Gd,none,none,180000
+1,Norm,1947,1947.0,Lvl,0,1.5Fin,Detchd,50,158,none,0,none,RL,5,102,Y,80.0,TA,MetalSd,336,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,0,1,TA,none,none,118500
+2,Norm,2007,2007.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,65.0,TA,VinylSd,400,Unf,TA,Gd,Y,IR1,Gd,New,0,Av,24,TA,1,2,Gd,none,none,179540
+1,Norm,1958,1958.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,0,Y,70.0,TA,Plywood,294,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,TA,0,1,TA,none,none,139000
+2,Norm,1978,1978.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,7,0,Y,74.0,TA,HdBoard,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,149500
+3,Norm,2000,2000.0,Lvl,0,2Story,BuiltIn,60,0,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,648,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,56,TA,1,2,Gd,none,none,248000
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,116.0,TA,VinylSd,865,Unf,TA,Gd,Y,IR1,Gd,WD,0,none,60,TA,1,2,Gd,none,none,255000
+2,Norm,1961,1963.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,70.04995836802665,TA,Wd Sdng,572,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,128500
+2,Norm,1925,1965.0,Bnk,0,1Story,Detchd,30,0,none,0,Grvl,RM,5,0,N,30.0,TA,Wd Sdng,504,Unf,TA,TA,N,IR3,TA,WD,0,none,0,TA,0,1,Fa,none,none,73000
+2,Norm,2000,2000.0,Lvl,0,SLvl,BuiltIn,80,180,TA,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,400,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,2,Gd,none,none,180000
+2,Norm,1998,1998.0,Low,0,1Story,Attchd,20,402,Fa,0,none,RL,5,0,Y,70.04995836802665,TA,VinylSd,514,Unf,TA,Gd,Y,IR3,Gd,WD,0,Gd,25,TA,1,2,Gd,none,none,215000
+2,Norm,1999,1999.0,Lvl,0,2Story,Detchd,160,0,none,0,none,FV,5,0,Y,35.0,TA,MetalSd,506,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,34,TA,0,2,Gd,none,none,183900
+2,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,168,Gd,0,none,RL,5,0,Y,64.0,TA,VinylSd,662,Unf,TA,Gd,Y,Reg,Gd,New,0,Av,55,TA,1,2,Gd,none,none,193879
+3,Norm,1880,2003.0,Lvl,0,2.5Fin,Attchd,75,302,Ex,0,none,RM,9,0,Y,87.0,TA,CmentBd,870,Unf,TA,TA,Y,Reg,Gd,WD,0,none,0,TA,1,3,TA,none,none,295000
+1,Norm,1962,1962.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,0,Y,69.0,TA,VinylSd,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,168,TA,1,2,TA,none,none,169500
+2,Norm,1988,1988.0,HLS,0,1Story,Attchd,120,168,Gd,0,none,RL,5,0,Y,40.0,TA,HdBoard,472,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,120,TA,1,2,Gd,none,none,189000
+1,Norm,1958,1958.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,7,0,Y,75.0,TA,MetalSd,288,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,136000
+2,Norm,1977,1977.0,Bnk,0,1Story,Attchd,20,0,TA,147,none,RL,6,0,Y,80.0,TA,Plywood,621,LwQ,TA,TA,Y,Reg,Gd,WD,0,Mn,0,TA,1,2,Gd,none,none,217500
+2,Norm,1918,1918.0,Lvl,392,2Story,Detchd,75,0,Ex,184,none,RL,4,552,Y,174.0,TA,Stucco,795,LwQ,TA,Gd,Y,Reg,Gd,WD,0,none,16,Gd,1,2,TA,none,Ex,235000
+3,Norm,1995,1995.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,5,202,Y,174.0,TA,VinylSd,810,Unf,TA,Gd,Y,IR1,Ex,WD,0,none,146,TA,1,2,Gd,none,none,403000
+1,Norm,1940,1989.0,Lvl,0,1.5Fin,Attchd,50,245,none,0,none,RL,7,156,Y,75.0,TA,VinylSd,423,Unf,TA,TA,Y,IR1,TA,WD,1300,Mn,0,TA,0,2,Gd,Shed,none,160000
+2,Norm,1995,1995.0,Lvl,0,2Story,Attchd,60,224,TA,0,none,RL,5,0,Y,70.04995836802665,TA,HdBoard,431,Unf,TA,TA,Y,Reg,TA,WD,0,none,84,TA,1,2,Gd,none,none,188000
+3,Norm,2006,2006.0,Lvl,0,1Story,Attchd,20,160,Gd,0,none,RL,5,0,Y,91.0,TA,VinylSd,840,Unf,TA,Gd,Y,IR1,Gd,New,0,Av,33,TA,1,2,Gd,none,none,279500
+1,Norm,1979,1979.0,Lvl,0,1Story,Attchd,120,28,TA,0,none,RL,5,0,Y,55.0,TA,Plywood,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,1,2,Gd,none,none,99500
+2,Norm,1962,1962.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,6,0,Y,70.0,TA,HdBoard,490,Unf,TA,TA,Y,IR1,TA,WD,0,none,84,TA,1,1,TA,none,none,171000
+1,Norm,1962,1962.0,Lvl,0,1Story,Attchd,20,0,Po,670,none,RL,5,144,Y,70.04995836802665,TA,Wd Sdng,288,BLQ,TA,TA,Y,Reg,TA,WD,0,none,20,TA,1,1,TA,none,none,139000
+1,Norm,1924,1924.0,Lvl,0,1.5Fin,Attchd,50,0,none,0,none,RL,6,126,Y,50.0,TA,MetalSd,398,Unf,TA,TA,Y,Reg,TA,COD,0,none,0,Gd,0,2,Fa,none,none,112000
+2,Norm,1978,1978.0,Lvl,0,2Story,Attchd,60,0,TA,469,none,RL,5,0,Y,80.0,TA,Plywood,564,LwQ,TA,TA,Y,IR1,Gd,WD,2000,none,112,TA,2,3,Gd,TenC,Fa,250000
+2,Norm,1918,2007.0,Lvl,0,1Story,Attchd,30,0,none,0,none,RL,7,112,Y,70.04995836802665,TA,Wd Sdng,576,Unf,TA,TA,N,Reg,Gd,WD,0,none,0,Gd,0,2,TA,none,none,112000
+2,Norm,1970,1994.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,7,0,Y,70.0,TA,MetalSd,463,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,Gd,0,1,TA,none,none,124500
+3,Norm,2006,2008.0,Lvl,0,1Story,Attchd,20,216,Gd,0,none,RL,5,0,Y,96.0,TA,CmentBd,786,Unf,TA,Ex,Y,Reg,Ex,WD,0,Gd,48,TA,1,2,Ex,none,none,337500
+2,Norm,1976,1976.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,RL,6,0,Y,80.0,TA,Plywood,483,Unf,TA,TA,Y,Reg,TA,WD,0,none,69,TA,1,2,TA,none,none,205000
+0,Norm,2007,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,5,0,Y,70.0,none,VinylSd,0,Unf,none,TA,Y,Reg,TA,New,0,none,30,TA,0,1,Gd,none,none,147000
+1,Norm,1965,1979.0,Lvl,0,1Story,Detchd,20,421,none,0,none,RH,5,0,Y,60.0,TA,VinylSd,300,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,119900
+1,Norm,1972,1972.0,Lvl,0,2Story,Detchd,160,0,none,0,none,RM,7,0,Y,21.0,TA,HdBoard,264,Unf,TA,TA,Y,Reg,TA,WD,0,none,28,TA,0,1,TA,none,none,118000
+3,Norm,1935,1982.0,Lvl,0,1.5Fin,BuiltIn,50,314,Gd,0,none,RL,9,0,Y,70.04995836802665,TA,Stucco,1014,Unf,TA,TA,Y,IR1,Gd,WD,0,Mn,12,Gd,2,3,TA,none,none,381000
+2,Norm,2006,2006.0,HLS,0,2Story,BuiltIn,60,0,Gd,0,none,RL,5,0,Y,168.0,TA,VinylSd,422,Unf,TA,Gd,Y,IR3,Gd,New,0,none,100,TA,1,2,Ex,none,none,274725
+0,Norm,1985,0.0,Lvl,0,1Story,none,20,0,none,0,none,RL,5,0,Y,70.04995836802665,none,Plywood,0,Unf,none,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,112000
+2,Norm,1975,1975.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,0,Y,120.0,TA,HdBoard,440,Unf,TA,TA,Y,Reg,TA,WD,0,Av,0,TA,0,1,TA,none,none,122000
+2,Norm,1990,1990.0,Lvl,0,2Story,Attchd,60,192,Ex,0,none,RL,5,0,Y,86.0,TA,HdBoard,514,Unf,TA,TA,Y,Reg,Gd,WD,0,none,121,TA,1,2,Gd,none,none,262280
+1,Norm,1956,1956.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,5,0,Y,72.0,TA,Wd Sdng,297,Unf,TA,TA,Y,Reg,TA,WD,0,none,44,TA,1,1,Gd,none,none,139000
+2,Norm,2005,2005.0,Lvl,0,SLvl,Attchd,80,212,none,0,none,RL,5,0,Y,59.0,TA,VinylSd,400,Unf,TA,Gd,Y,IR1,Gd,WD,0,Gd,0,TA,0,2,Gd,none,none,190000
+1,Artery,1939,1939.0,Lvl,0,1.5Unf,Attchd,190,0,TA,0,none,RL,6,0,Y,50.0,TA,MetalSd,205,Unf,Gd,TA,Y,Reg,TA,WD,0,none,4,TA,2,1,TA,none,none,118000
+1,RRNn,1927,1920.0,Lvl,0,1Story,Detchd,30,49,none,0,none,RM,6,87,N,60.0,TA,MetalSd,240,Unf,Fa,TA,Y,IR1,Fa,WD,0,none,0,TA,0,1,TA,none,none,68500
+2,Norm,1922,1993.0,Bnk,384,2.5Fin,Detchd,70,431,Gd,0,none,RL,7,0,Y,79.0,TA,MetalSd,672,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,2,Ex,none,none,191000
+0,Norm,1920,0.0,Lvl,0,1Story,none,30,0,none,0,none,RL,7,144,Y,58.0,none,Wd Sdng,0,Unf,none,TA,N,IR1,TA,WD,0,Mn,0,TA,0,1,TA,none,none,86000
+2,Norm,2003,2004.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,5,0,Y,66.0,TA,VinylSd,576,Unf,TA,TA,Y,Reg,Gd,WD,0,none,78,TA,0,1,Gd,none,none,155000
+2,Norm,1965,1965.0,Lvl,0,2Story,Attchd,60,0,Fa,0,none,RL,6,0,Y,85.0,TA,HdBoard,486,Unf,TA,TA,Y,Reg,TA,WD,0,none,42,TA,3,2,TA,none,none,205000
+2,Norm,1964,1964.0,Lvl,0,1Story,Attchd,20,0,none,345,none,RL,6,0,Y,100.0,TA,Plywood,472,BLQ,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,167000
+2,Norm,1919,1940.0,Lvl,0,2Story,Detchd,70,0,Gd,0,Pave,RL,6,126,Y,60.0,TA,Wd Sdng,520,Unf,TA,TA,N,Reg,TA,WD,0,none,0,TA,1,1,TA,none,none,180500
+3,Norm,2007,2008.0,Lvl,0,2Story,Attchd,60,0,Gd,0,none,FV,5,0,Y,85.0,TA,VinylSd,836,Unf,TA,Gd,Y,Reg,Ex,New,0,none,102,TA,1,2,Ex,none,none,339750
+3,Norm,2008,2008.0,Lvl,0,1Story,Attchd,20,322,Gd,0,none,RL,5,0,Y,80.0,TA,VinylSd,834,Unf,TA,Gd,Y,IR1,Gd,New,0,Mn,82,TA,1,2,Ex,none,none,372500
+2,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,252,none,0,none,RL,5,0,Y,60.0,TA,VinylSd,451,Unf,TA,TA,Y,Reg,Gd,WD,0,none,64,TA,0,1,Gd,none,none,176000
+2,Norm,1950,1949.0,Lvl,0,1Story,Detchd,90,0,none,0,none,RL,4,0,N,60.0,TA,Stone,400,none,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,2,none,none,none,93500
+1,Norm,1959,2008.0,Lvl,0,1Story,Detchd,20,0,none,0,none,RL,6,0,Y,70.0,Ex,Wd Sdng,300,Unf,Ex,TA,Y,Reg,TA,WD,450,none,0,TA,0,1,TA,Shed,none,127500
+2,Norm,2005,2005.0,Lvl,0,SLvl,Basment,180,0,none,0,none,RM,5,0,Y,35.0,TA,VinylSd,525,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,28,TA,0,1,Gd,none,none,148000
+1,Norm,1940,1940.0,Lvl,0,2Story,Attchd,70,0,Gd,0,none,RL,6,0,Y,75.0,TA,Wd Sdng,240,Unf,TA,TA,Y,Reg,TA,CWD,0,none,0,TA,2,1,TA,none,none,219500
+1,Norm,1946,1946.0,Lvl,0,1.5Fin,Detchd,50,0,none,0,none,RL,6,0,Y,70.0,TA,MetalSd,240,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,130500
+1,Norm,1965,1965.0,Lvl,0,1Story,Attchd,20,180,none,375,none,RL,6,0,Y,70.04995836802665,TA,Plywood,288,LwQ,TA,TA,Y,IR1,TA,WD,0,none,0,TA,0,1,TA,none,none,137000
+0,Norm,1919,0.0,Lvl,0,1.5Fin,none,50,0,none,0,none,RM,7,144,N,85.0,none,CmentBd,0,Unf,none,TA,N,Reg,Fa,WD,0,none,0,TA,0,2,TA,none,none,115000
+1,Norm,1962,1962.0,Lvl,0,1Story,Attchd,20,261,none,0,none,RL,7,0,Y,70.04995836802665,TA,HdBoard,312,Unf,TA,TA,P,IR1,TA,WD,0,none,39,TA,0,1,TA,none,none,157900
+2,Norm,1910,1966.0,Lvl,0,2Story,Detchd,50,74,none,0,Grvl,RM,6,128,Y,60.0,TA,Wd Sdng,440,Unf,TA,TA,Y,Reg,TA,WD,0,none,0,TA,0,1,TA,none,none,110000
+2,Norm,2004,2004.0,Lvl,0,1Story,Attchd,20,100,Gd,0,none,RL,5,0,Y,43.0,TA,VinylSd,550,Unf,TA,Gd,Y,IR1,Gd,WD,0,Mn,48,TA,1,2,Ex,none,none,240000
+2,Norm,1971,1971.0,Lvl,0,1Story,Attchd,20,55,none,0,none,RL,7,0,Y,80.0,TA,VinylSd,528,Unf,TA,Gd,Y,Reg,Gd,COD,0,none,0,Gd,0,2,TA,none,none,145000
+2,Norm,1964,1964.0,Lvl,0,2Story,Attchd,60,0,TA,0,none,RL,6,0,Y,100.0,TA,VinylSd,540,Unf,TA,TA,Y,Reg,TA,WD,0,none,52,TA,1,1,TA,none,none,165000
+2,Norm,1988,1988.0,Lvl,0,SLvl,Attchd,80,224,Fa,0,none,RL,5,0,Y,85.0,TA,HdBoard,600,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,0,TA,1,2,Gd,none,none,175000
+3,Norm,2005,2005.0,Lvl,0,1Story,Attchd,20,192,Ex,0,none,RL,5,0,Y,49.0,TA,VinylSd,1134,Unf,TA,Gd,Y,IR2,Ex,New,0,Mn,267,TA,1,1,Ex,none,none,423000
+2,Norm,2004,2004.0,Lvl,0,2Story,Attchd,60,100,Gd,0,none,RL,5,0,Y,60.0,TA,VinylSd,388,Unf,TA,Gd,Y,IR1,Gd,WD,0,Av,75,TA,1,2,Gd,none,none,184000
+2,Norm,1914,1914.0,Lvl,0,2.5Unf,Detchd,75,0,TA,0,none,RM,7,0,N,60.0,TA,Wd Sdng,320,Unf,TA,TA,N,Reg,TA,WD,0,Mn,341,TA,2,1,Gd,none,none,163000
+2,Norm,1962,1991.0,Lvl,0,SLvl,Attchd,80,0,TA,690,none,RL,5,252,Y,120.0,TA,Wd Sdng,884,ALQ,TA,TA,Y,Reg,TA,WD,0,Gd,0,TA,1,1,TA,none,none,176000
+1,Norm,1961,1961.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,6,0,Y,70.04995836802665,TA,Wd Sdng,368,Unf,TA,TA,Y,IR1,TA,COD,0,none,319,TA,0,1,TA,none,none,136500
+3,Norm,1963,1963.0,Lvl,0,1Story,2Types,20,0,TA,0,none,RL,4,0,Y,50.0,TA,MetalSd,995,Unf,TA,TA,Y,Reg,TA,WD,0,Gd,263,TA,2,1,TA,none,none,186700
+1,Norm,1954,1954.0,Lvl,0,1Story,Attchd,20,0,Gd,0,none,RL,6,120,Y,70.04995836802665,TA,BrkFace,275,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,TA,none,none,137000
+2,Norm,2000,2000.0,Lvl,0,2Story,Detchd,160,0,TA,0,none,FV,5,0,Y,70.04995836802665,TA,MetalSd,440,Unf,TA,Gd,Y,Reg,Gd,WD,0,none,0,TA,1,2,Gd,none,none,177000
+3,Norm,2004,2004.0,Lvl,0,2Story,BuiltIn,60,113,Gd,0,none,RL,5,0,Y,108.0,TA,VinylSd,691,Unf,TA,Gd,Y,Reg,Gd,WD,0,Av,32,TA,1,3,Ex,none,none,309000
+1,Norm,1942,1942.0,Bnk,0,2Story,Attchd,70,0,Gd,0,none,RL,7,0,Y,70.04995836802665,TA,Wd Sdng,213,Unf,TA,TA,P,IR1,Gd,WD,0,none,0,TA,2,1,TA,none,none,177500
+1,Norm,1959,1959.0,Lvl,0,SLvl,Attchd,80,86,TA,294,none,RL,6,0,Y,70.0,TA,HdBoard,796,BLQ,TA,TA,Y,Reg,TA,WD,0,Av,0,Gd,1,1,TA,none,none,143000
+1,Norm,1934,1939.0,HLS,0,2Story,Detchd,70,0,Gd,0,none,RL,7,0,Y,74.0,TA,Stucco,240,Unf,TA,TA,Y,IR1,TA,WD,0,none,0,TA,1,1,TA,none,none,188700
+2,Norm,1882,1925.0,Lvl,0,2Story,Attchd,70,0,Gd,0,Grvl,RM,9,0,Y,121.0,TA,Wd Sdng,424,Unf,TA,Gd,P,Reg,Gd,WD,0,none,169,Gd,1,1,TA,none,none,168000
+1,Norm,1953,1953.0,Lvl,0,1Story,Attchd,20,0,none,0,none,RL,7,0,Y,66.0,TA,Wd Sdng,240,Unf,TA,TA,Y,Reg,Gd,WD,0,none,18,TA,0,1,TA,none,none,134500
+2,Norm,1970,1987.0,Lvl,0,SFoyer,Detchd,85,104,none,0,none,RL,7,0,Y,54.0,TA,VinylSd,624,Unf,TA,TA,Y,Reg,TA,WD,0,Av,0,Gd,0,1,Gd,none,none,129500
