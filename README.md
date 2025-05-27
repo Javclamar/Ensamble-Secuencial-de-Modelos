@@ -4,14 +4,14 @@
 Este proyecto implementa un meta-algoritmo de ensamble secuencial para tareas de regresión (y potencialmente clasificación), siguiendo una estrategia donde cada modelo intenta corregir los errores del anterior, 
 inspirándose en técnicas como el Gradient Boosting. La implementación se ha realizado desde cero usando Python y scikit-learn, y se ha diseñado para ser modular, extensible y fácilmente aplicable a distintos conjuntos de datos.
 
-##Objetivos
+## Objetivos
 
 - Desarrollar un ensamble secuencial de modelos predictivos (meta-modelo) desde cero.
 - Aplicarlo a tareas de regresión sobre diferentes conjuntos de datos.
 - Evaluar el comportamiento del algoritmo frente a diferentes configuraciones de hiperparámetros.
 - Comparar el rendimiento del meta-modelo frente a modelos base individuales.
 
-##Fundamentos del Algoritmo
+## Fundamentos del Algoritmo
 
 El algoritmo se basa en una estrategia aditiva y secuencial de aprendizaje:
 
@@ -24,7 +24,7 @@ El algoritmo se basa en una estrategia aditiva y secuencial de aprendizaje:
 
 3. En tareas de clasificación, la predicción continua se convierte en una clase mediante un umbral.
 
-##Conjunto de datos
+## Conjunto de datos
 
 Se han utilizado dos conjuntos de datos proporcionados por la asignatura:
 
@@ -43,13 +43,13 @@ Ambos conjuntos han sido preprocesados adecuadamente y convertidos a formato num
 
 - README.md: Este archivo.
 
-##Ejecución
+## Ejecución
 
 1. Abrir el archivo experiments.ipynb.
 2.Ejecutar las celdas desde el inicio. El código está documentado y se puede ajustar fácilmente para nuevos datasets.
 3. Se puede modificar el estimador base (DecisionTreeRegressor, LinearRegression, etc.) y sus hiperparámetros.
 
-##Requisitos
+## Requisitos
 
 - Python 3.8+
 - Scikit-learn
